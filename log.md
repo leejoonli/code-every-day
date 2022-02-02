@@ -10,6 +10,7 @@ Note: The function accepts an integer and returns an integer
 
 ## Code Challenge Solution
 
+```js
 function squareDigits(num){
   const str = num.toString();
   let newNum = '';
@@ -18,6 +19,7 @@ function squareDigits(num){
   }
   return parseInt(newNum);
 }
+```
 
 ## Thoughts
 
