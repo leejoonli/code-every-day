@@ -28,3 +28,13 @@ Originally, I converted num to a string and then used .split('') but it returned
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/split#Summary
 
 So I just used a for loop, stored it in a new variable, and then converted it to a number.
+
+# Day 2 (2/3/2022)
+
+## Portfolio
+
+Pushed initial commit and scaffolded out components for my portfolio.  Created a react app with typescript.
+
+## Thoughts
+
+Didn't put alot of actual code down since I was reading on typings-for-css-modules-loader.
