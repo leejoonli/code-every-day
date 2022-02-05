@@ -48,3 +48,13 @@ Filled all components previously scaffolded out.  Added necessary information an
 ## Thoughts
 
 Filling out content is time consuming.  The hour went by so fast.
+
+# Day 4 (2/5/2022)
+
+## Portfolio
+
+Added CSS to multiple components and added a placeholder div element for home page image.
+
+## Thoughts
+
+CSS is so time consuming but necessary.
