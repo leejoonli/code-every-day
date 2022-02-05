@@ -38,3 +38,13 @@ Pushed initial commit and scaffolded out components for my portfolio.  Created a
 ## Thoughts
 
 Didn't put alot of actual code down since I was reading on typings-for-css-modules-loader.
+
+# Day 3 (2/4/2022)
+
+## Portfolio
+
+Filled all components previously scaffolded out.  Added necessary information and other placeholder text.
+
+## Thoughts
+
+Filling out content is time consuming.  The hour went by so fast.
