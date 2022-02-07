@@ -58,3 +58,13 @@ Added CSS to multiple components and added a placeholder div element for home pa
 ## Thoughts
 
 CSS is so time consuming but necessary.
+
+# Day 5 (2/6/2022)
+
+## Portfolio
+
+Added CSS to multiple components and import images.
+
+## Thoughts
+
+Need to rename image files for img src paths.
