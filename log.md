@@ -68,3 +68,13 @@ Added CSS to multiple components and import images.
 ## Thoughts
 
 Need to rename image files for img src paths.
+
+# Day 6 (2/7/2022)
+
+## Portfolio
+
+Added CSS to technologies components and display images.
+
+## Thoughts
+
+Had to import each image because it was giving an img src path error.
