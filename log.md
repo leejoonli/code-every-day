@@ -78,3 +78,13 @@ Added CSS to technologies components and display images.
 ## Thoughts
 
 Had to import each image because it was giving an img src path error.
+
+# Day 7 (2/8/2022)
+
+## Portfolio
+
+Added CSS to project and about components.  Justified text in project description and about me.
+
+## Thoughts
+
+Portfolio is coming along well.  Need to adjust font size, add padding, update the landing image, and create navigation links with smooth scroll.
