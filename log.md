@@ -87,4 +87,4 @@ Added CSS to project and about components.  Justified text in project descriptio
 
 ## Thoughts
 
-Portfolio is coming along well.  Need to adjust font size, add padding, update the landing image, and create navigation links with smooth scroll.
+Portfolio is coming along well.  Need to adjust add animation triggered by scroll and create navigation links with smooth scroll and add project 4.  Possibly change the background image because it's very white at the bottom.
