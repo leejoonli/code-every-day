@@ -88,3 +88,13 @@ Added CSS to project and about components.  Justified text in project descriptio
 ## Thoughts
 
 Portfolio is coming along well.  Need to adjust add animation triggered by scroll and create navigation links with smooth scroll and add project 4.  Possibly change the background image because it's very white at the bottom.
+
+# Day 8 (2/9/2022)
+
+## Portfolio
+
+Added CSS/animations to navigation and other components.  Deployed on netlify.
+
+## Thoughts
+
+Portfolio is deployed on netlify.  Mobile ready but needs adjustment for web format.  Tried using an icon library but the github and linked in icons were trademarked and not included.  Ended up just getting it somewhere else.  The AOS library is really cool and easy to use.  Lots of built in animations that trigger on scroll.  Had a little bug with installing it since this app is using Typescript but eventually got it to run.
