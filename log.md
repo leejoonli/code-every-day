@@ -98,3 +98,13 @@ Added CSS/animations to navigation and other components.  Deployed on netlify.
 ## Thoughts
 
 Portfolio is deployed on netlify.  Mobile ready but needs adjustment for web format.  Tried using an icon library but the github and linked in icons were trademarked and not included.  Ended up just getting it somewhere else.  The AOS library is really cool and easy to use.  Lots of built in animations that trigger on scroll.  Had a little bug with installing it since this app is using Typescript but eventually got it to run.
+
+# Day 9 (2/10/2022)
+
+## Portfolio
+
+Adjusted portfolio for web format.
+
+## Thoughts
+
+Portfolio is almost done.  Need to figure out the downloadable pdf file link and change the icon on the tab.  Then add in final project.
