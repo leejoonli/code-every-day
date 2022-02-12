@@ -108,3 +108,13 @@ Adjusted portfolio for web format.
 ## Thoughts
 
 Portfolio is almost done.  Need to figure out the downloadable pdf file link and change the icon on the tab.  Then add in final project.
+
+# Day 10 (2/11/2022)
+
+## Project 4
+
+Started project 4 for General Assembly.  Created a base Typscript React Native app and pushed it into a git repository.  Created a Django app and PostgreSQL database.
+
+## Thoughts
+
+Started off trying to do everything at once when it came to django but quickly realized that was a terrible idea.  Started from scratch and incrementally made my way up to custom user models.  Still a long way to go for completion and deployment.
