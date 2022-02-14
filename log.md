@@ -130,3 +130,13 @@ Added Users to database.  Unable to push to Heroku and still in the process of d
 Tried to deploy project 4 backend to Heroku but got a Typeerror.  Still in process of debugging with the help of one of my instructors.  Added axios GET request to native app and was able to retrieve data.  Could not verify whether or not it shows on mobile since I can't connect to localhost on my phone but the data shows up on web.
 
 Added pdf link to portfolio.  Just needed to add an extension to VScode.  However, I ran into a bug with App.test.tsx after installing the extension and importing the pdf file to the component.  Ended up commenting out the test in App.test.tsx and works fine and I don't think I need to keep that test for deployment.  All that's left to do is finish project 4 and add it and change the icon that shows up next to the title of the page on the tab.  Typescript for this project seems very unnecessary since I didn't do much with typings and it brought up certain bugs.
+
+# Day 11 (2/12/2022)
+
+## Project 4 and Portfolio
+
+Still haven't resovled bug unfortunately but added favicon to portfolio so a small win.  Lots of reading React Native documentation and testing.
+
+## Thoughts
+
+Still can't deploy to Heroku for whatever reason but I have a great team of instructors to rely on.  We'll get it eventually.  The favicon was really easy to put in thanks to https://convertio.co/ and some instruction from Tyler Conti.  Testing the React Native components is pretty cool and doing it with Typescript is interesting.  For now, Typescript is giving me bugs to fix, mainly because of type declarations but I'm fully team Typescript over regular JavaScript.
