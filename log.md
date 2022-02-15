@@ -135,8 +135,28 @@ Added pdf link to portfolio.  Just needed to add an extension to VScode.  Howeve
 
 ## Project 4 and Portfolio
 
-Still haven't resovled bug unfortunately but added favicon to portfolio so a small win.  Lots of reading React Native documentation and testing.
+Still haven't resolved bug unfortunately but added favicon to portfolio so a small win.  Lots of reading React Native documentation and testing.
 
 ## Thoughts
 
 Still can't deploy to Heroku for whatever reason but I have a great team of instructors to rely on.  We'll get it eventually.  The favicon was really easy to put in thanks to https://convertio.co/ and some instruction from Tyler Conti.  Testing the React Native components is pretty cool and doing it with Typescript is interesting.  For now, Typescript is giving me bugs to fix, mainly because of type declarations but I'm fully team Typescript over regular JavaScript.
+
+# Day 12 (2/13/2022)
+
+## Project 4 and Portfolio
+
+Still haven't resolved bug.  Tested more native core components in the meantime.
+
+## Thoughts
+
+Don't know how to fix the backend deployment bug.
+
+# Day 13 (2/14/2022)
+
+## Project 4 and Portfolio
+
+Resolved backend deployment bug.  Tested more native core components and added another api call.
+
+## Thoughts
+
+Turns out my backend local repository wasn't the latest version so when I tried to deploy to heroku it was using an outdated repo.
