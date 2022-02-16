@@ -153,10 +153,20 @@ Don't know how to fix the backend deployment bug.
 
 # Day 13 (2/14/2022)
 
-## Project 4 and Portfolio
+## Project 4
 
 Resolved backend deployment bug.  Tested more native core components and added another api call.
 
 ## Thoughts
 
 Turns out my backend local repository wasn't the latest version so when I tried to deploy to heroku it was using an outdated repo.
+
+# Day 14 (2/15/2022)
+
+## Project 4
+
+Ran into a bug with the api call on expo.  Changed the textinput function and started working but now running into logout bug.
+
+## Thoughts
+
+There's alot of differences between React and React Native.  Very similar in terms of structure but the syntax for mobile development is different.  Interesting nonetheless.
