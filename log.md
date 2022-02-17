@@ -170,3 +170,13 @@ Ran into a bug with the api call on expo.  Changed the textinput function and st
 ## Thoughts
 
 There's alot of differences between React and React Native.  Very similar in terms of structure but the syntax for mobile development is different.  Interesting nonetheless.
+
+# Day 15 (2/16/2022)
+
+## Project 4
+
+Completed MVP.  Achieved full CRUD functionality and added CSS.  Very minimal CSS but enough for this kind of application.  Used typings for almost everything, albeit some are considered bad habits.
+
+## Thoughts
+
+Very tired, writing this at 1am, need to sleep so I can deploy for tomorrow.  I keep forgetting to push this to GitHub so the map can be full of green.
