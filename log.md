@@ -180,3 +180,13 @@ Completed MVP.  Achieved full CRUD functionality and added CSS.  Very minimal CS
 ## Thoughts
 
 Very tired, writing this at 1am, need to sleep so I can deploy for tomorrow.  I keep forgetting to push this to GitHub so the map can be full of green.
+
+# Day 16 (2/17/2022)
+
+## Project 4 and Portfolio
+
+Deployed project 4 to Expo and updated portfolio repository.
+
+## Thoughts
+
+Wanted to deploy to the App store but there's a developer account fee that you need to pay before distribution.  Ended up deploying to the Expo servers but any user needs the Expo Go app downloaded on their phone to view the application.  Also, updated portfolio to include project 4 and updated resume.
