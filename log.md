@@ -210,3 +210,13 @@ Today was a relaxing day of Codewars.  Had to find the min and max of a string o
 ## Thoughts
 
 My solution was to split the string into an array of substrings, convert each substring in the list into an integer, find the min and max, convert the min and max into a string, and then return it.  Could probably refactor it to be better.  In fact the other solutions for this kata were very Python-esque answers.  I still have a lot to learn about Python.
+
+# Day 19 (2/20/2022)
+
+## Codewars
+
+Another day of Codewars.  Today's challenge was to check if a given string is an isogram and return either true or false.  Done in Python.
+
+## Thoughts
+
+My solution was to first change the string into all lowercase with string.lower(), create an empty list to hold unique letters, then loop through the letters of the string, check to see if the letter is already in the list, and if it does exist return False, but if it finishes the loop return True.
