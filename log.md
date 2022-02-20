@@ -200,3 +200,13 @@ Today is the end of GA SEIR1115.  Ended up doing a code challenge today on Codew
 ## Thoughts
 
 Original solution passed the initial unit tests but the ATTEMPT unit tests came back failing.  My guess is that my solution took too long in terms of time complexity.  Refactored and passed.  Did it in Python and it was a bit weird to come back to it after only using it for backend stuff on my project.
+
+# Day 18 (2/19/2022)
+
+## Codewars
+
+Today was a relaxing day of Codewars.  Had to find the min and max of a string of numbers and return back the min and max as a string.
+
+## Thoughts
+
+My solution was to split the string into an array of substrings, convert each substring in the list into an integer, find the min and max, convert the min and max into a string, and then return it.  Could probably refactor it to be better.  In fact the other solutions for this kata were very Python-esque answers.  I still have a lot to learn about Python.
