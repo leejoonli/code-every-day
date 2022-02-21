@@ -220,3 +220,13 @@ Another day of Codewars.  Today's challenge was to check if a given string is an
 ## Thoughts
 
 My solution was to first change the string into all lowercase with string.lower(), create an empty list to hold unique letters, then loop through the letters of the string, check to see if the letter is already in the list, and if it does exist return False, but if it finishes the loop return True.
+
+# Day 20 (2/21/2022)
+
+## Codewars
+
+Another day of Codewars.  Today's challenge was to reverse wods in a string while keeping double spaces and keeping the order of words the same.  Done in Python.
+
+## Thoughts
+
+During my google search, I came across an interesting Python-esque solution and it seemed to work.  I had to look up what .join in Python did and remember that you can essentially do a for loop inside of built-in functions and methods.
