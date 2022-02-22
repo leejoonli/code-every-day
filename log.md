@@ -225,8 +225,18 @@ My solution was to first change the string into all lowercase with string.lower(
 
 ## Codewars
 
-Another day of Codewars.  Today's challenge was to reverse wods in a string while keeping double spaces and keeping the order of words the same.  Done in Python.
+Another day of Codewars.  Today's challenge was to reverse words in a string while keeping double spaces and keeping the order of words the same.  Done in Python.
 
 ## Thoughts
 
 During my google search, I came across an interesting Python-esque solution and it seemed to work.  I had to look up what .join in Python did and remember that you can essentially do a for loop inside of built-in functions and methods.
+
+# Day 21 (2/22/2022)
+
+## Codewars
+
+Another day of Codewars.  Today's challenge was to get the ascii values of each letter in a string, join them together, find the sum of the joined values, create a new variable where any instance of 7 is replaced by 1, and return the absolute value of the original variable minus the new variable.
+
+## Thoughts
+
+This one was interesting and I did it in probably the worst way possible.  I created a list to store the split string letters, changed them to their ascii values, converted the elements back into a string to join them together, converted it back to an integer, and then found the sum of each individual element in the new integer.  And of course, I stored the new variable with the replaced values in a new variable and that was done while the original variable was still the string version of the joined elements.  And after finding the sum of each individual element for the new variable, I returned the absolute value of the original variable minus the new variable.  Looking at other people's solutions, it looks like I just did the long hand version of the order of operations which means my solution could've been refactored into a more sucinct Python-esque answer.
