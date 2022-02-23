@@ -240,3 +240,13 @@ Another day of Codewars.  Today's challenge was to get the ascii values of each 
 ## Thoughts
 
 This one was interesting and I did it in probably the worst way possible.  I created a list to store the split string letters, changed them to their ascii values, converted the elements back into a string to join them together, converted it back to an integer, and then found the sum of each individual element in the new integer.  And of course, I stored the new variable with the replaced values in a new variable and that was done while the original variable was still the string version of the joined elements.  And after finding the sum of each individual element for the new variable, I returned the absolute value of the original variable minus the new variable.  Looking at other people's solutions, it looks like I just did the long hand version of the order of operations which means my solution could've been refactored into a more sucinct Python-esque answer.
+
+# Day 22 (2/23/2022)
+
+## Personal Project
+
+A full day of putting in seed data for a personal project intended as a gift for a friend.
+
+## Thoughts
+
+There was so much to write down but now that it's done, I just need to make a function to randomly choose three and display them on the screen.  And then the hardes part will come, the CSS.
