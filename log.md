@@ -249,4 +249,14 @@ A full day of putting in seed data for a personal project intended as a gift for
 
 ## Thoughts
 
-There was so much to write down but now that it's done, I just need to make a function to randomly choose three and display them on the screen.  And then the hardes part will come, the CSS.
+There was so much to write down but now that it's done, I just need to make a function to randomly choose three and display them on the screen.  And then the hardest part will come, the CSS.
+
+# Day 23 (2/24/2022)
+
+## Personal Project
+
+Created a shuffle function and random number generator function.
+
+## Thoughts
+
+Able to shuffle the "deck" and create a random number generator that uses a Set so the same card cannot be picked.  Need to create a function to set a state variable with the picked cards and then map them onto the screen.
