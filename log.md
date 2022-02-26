@@ -260,3 +260,13 @@ Created a shuffle function and random number generator function.
 ## Thoughts
 
 Able to shuffle the "deck" and create a random number generator that uses a Set so the same card cannot be picked.  Need to create a function to set a state variable with the picked cards and then map them onto the screen.
+
+# Day 24 (2/25/2022)
+
+## Personal Project
+
+Adjust card picking function and state variables for cleaner code.
+
+## Thoughts
+
+Able to select a three card spread and map them out onto the screen.  Need to find out how to do a card flip and adjust CSS afterwards.
