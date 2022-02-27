@@ -270,3 +270,13 @@ Adjust card picking function and state variables for cleaner code.
 ## Thoughts
 
 Able to select a three card spread and map them out onto the screen.  Need to find out how to do a card flip and adjust CSS afterwards.
+
+# Day 25 (2/26/2022)
+
+## Personal Project
+
+Try to add flip card.
+
+## Thoughts
+
+Unable to add flip card as of yet.  Need to read more documentation.
