@@ -280,3 +280,13 @@ Try to add flip card.
 ## Thoughts
 
 Unable to add flip card as of yet.  Need to read more documentation.
+
+# Day 26 (2/27/2022)
+
+## Codewars
+
+A day of Codewars in Python.  Challenge was to return a string of hours and minutes given an integer.
+
+## Thoughts
+
+Had some trouble for the logic on this one.  For some reason I though the modulo operator was the best way but realized that a combination of flooring a divided integer and the modulo operator was the way to go.
