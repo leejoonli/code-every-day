@@ -290,3 +290,13 @@ A day of Codewars in Python.  Challenge was to return a string of hours and minu
 ## Thoughts
 
 Had some trouble for the logic on this one.  For some reason I though the modulo operator was the best way but realized that a combination of flooring a divided integer and the modulo operator was the way to go.
+
+# Day 27 (2/28/2022)
+
+## Personal Project
+
+Worked on a personal project.
+
+## Thoughts
+
+Able to get a flip animation in React Native using Animated.  Followed a blog post about it.  Currently all the cards flip all at once but I think that's fine.  Need to display the card information from the state variable after some user interaction.
