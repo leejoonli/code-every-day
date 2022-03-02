@@ -300,3 +300,13 @@ Worked on a personal project.
 ## Thoughts
 
 Able to get a flip animation in React Native using Animated.  Followed a blog post about it.  Currently all the cards flip all at once but I think that's fine.  Need to display the card information from the state variable after some user interaction.
+
+# Day 28 (3/1/2022)
+
+## Personal Project
+
+Worked on a personal project.
+
+## Thoughts
+
+Replaced the spread selection pressable from a text box to a "fanned deck" image.  Able to get images overlapped and able to keep functionality to set selected cards.
