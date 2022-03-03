@@ -310,3 +310,13 @@ Worked on a personal project.
 ## Thoughts
 
 Replaced the spread selection pressable from a text box to a "fanned deck" image.  Able to get images overlapped and able to keep functionality to set selected cards.
+
+# Day 29 (3/2/2022)
+
+## Personal Project
+
+Worked on a personal project.
+
+## Thoughts
+
+Added a modal and basic CSS layout.  Need to add background and probably better buttons/pressables to open and close modal.  Also should add a start animation to whenever the user presses the initial pressable at the top to show that a new reading has occurred.
