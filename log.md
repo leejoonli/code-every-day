@@ -320,3 +320,13 @@ Worked on a personal project.
 ## Thoughts
 
 Added a modal and basic CSS layout.  Need to add background and probably better buttons/pressables to open and close modal.  Also should add a start animation to whenever the user presses the initial pressable at the top to show that a new reading has occurred.
+
+# Day 30 (3/3/2022)
+
+## Skill Building
+
+Worked on a database using Python and PostgreSQL
+
+## Thoughts
+
+Had to look back on previous notes and examples.  Should've done more practice with this earlier.
