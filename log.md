@@ -330,3 +330,13 @@ Worked on a database using Python and PostgreSQL
 ## Thoughts
 
 Had to look back on previous notes and examples.  Should've done more practice with this earlier.
+
+# Day 31 (3/4/2022)
+
+## Skill Building
+
+Worked on a the database from yesterday
+
+## Thoughts
+
+Added serializers, models, urls, and views to the database.  Used django rest framework as well.  Still a bit rusty with the process but the practice is making it so things are coming back.  Will add more tables and related files to this exercise incrementally.
