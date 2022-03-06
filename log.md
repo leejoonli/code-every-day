@@ -340,3 +340,13 @@ Worked on a the database from yesterday
 ## Thoughts
 
 Added serializers, models, urls, and views to the database.  Used django rest framework as well.  Still a bit rusty with the process but the practice is making it so things are coming back.  Will add more tables and related files to this exercise incrementally.
+
+# Day 32 (3/5/2022)
+
+## Codewars
+
+Worked on a Codewars problem today.
+
+## Thoughts
+
+The code challenge was to find the sum of each element to the power of an integer in an array, find the sum of the array, and then return the difference.  I wrote it the more JavaScript way where I made a loop to find the sum of each element to the power of the given integer and then found the sum of the array and then returned the difference.  The Python way is more succinct.
