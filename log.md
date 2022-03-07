@@ -360,3 +360,13 @@ Worked on a Codewars problem today.
 ## Thoughts
 
 The code challenge was to find and return the sum of an integer depending on certain key values in Python dictionary.  I just put a conditional to filter the necessary additions and then returned the sum.  Still haven't gotten around to really digging into Python and still have the JavaScript way in my head.
+
+# Day 34 (3/7/2022)
+
+## Skillbuilding
+
+Worked on a database using Python, Djanog, and PostgreSQL
+
+## Thoughts
+
+Remembering more and more from the GA lesson.  Adding to the relational database incrementally.  Next step is to add more models and serializers with urls and views accompanying it.  Possibly add user authentication later.
