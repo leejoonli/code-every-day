@@ -350,3 +350,13 @@ Worked on a Codewars problem today.
 ## Thoughts
 
 The code challenge was to find the sum of each element to the power of an integer in an array, find the sum of the array, and then return the difference.  I wrote it the more JavaScript way where I made a loop to find the sum of each element to the power of the given integer and then found the sum of the array and then returned the difference.  The Python way is more succinct.
+
+# Day 33 (3/6/2022)
+
+## Codewars
+
+Worked on a Codewars problem today.
+
+## Thoughts
+
+The code challenge was to find and return the sum of an integer depending on certain key values in Python dictionary.  I just put a conditional to filter the necessary additions and then returned the sum.  Still haven't gotten around to really digging into Python and still have the JavaScript way in my head.
