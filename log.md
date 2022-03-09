@@ -370,3 +370,13 @@ Worked on a database using Python, Djanog, and PostgreSQL
 ## Thoughts
 
 Remembering more and more from the GA lesson.  Adding to the relational database incrementally.  Next step is to add more models and serializers with urls and views accompanying it.  Possibly add user authentication later.
+
+# Day 35 (3/8/2022)
+
+## Skillbuilding
+
+Worked on a database using Python, Djanog, and PostgreSQL
+
+## Thoughts
+
+Added more models, some with multiple foreign keys.  Had to rearrange the models since code still reads from top to bottom.  Added in necessary serializers, views, and url paths.  Next step is to add user authentication.
