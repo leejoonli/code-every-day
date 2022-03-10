@@ -380,3 +380,13 @@ Worked on a database using Python, Djanog, and PostgreSQL
 ## Thoughts
 
 Added more models, some with multiple foreign keys.  Had to rearrange the models since code still reads from top to bottom.  Added in necessary serializers, views, and url paths.  Next step is to add user authentication.
+
+# Day 36 (3/9/2022)
+
+## Codewars
+
+Worked on a Codewars challenge.
+
+## Thoughts
+
+The challenge was to find the min and max values of a list in Python and return it in a list.  I remembered that Python as the min() and max() methods so returning those values was pretty simple.
