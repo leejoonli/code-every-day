@@ -390,3 +390,13 @@ Worked on a Codewars challenge.
 ## Thoughts
 
 The challenge was to find the min and max values of a list in Python and return it in a list.  I remembered that Python as the min() and max() methods so returning those values was pretty simple.
+
+# Day 37 (3/10/2022)
+
+## SQL commands
+
+Refresher for SQL commands
+
+## Thoughts
+
+Starting to remember the SQL commands and SQL specifics.
