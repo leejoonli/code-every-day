@@ -400,3 +400,13 @@ Refresher for SQL commands
 ## Thoughts
 
 Starting to remember the SQL commands and SQL specifics.
+
+# Day 38 (3/11/2022)
+
+## Shortlisted readiness test
+
+Did a readiness test for a company that I applied to.  Was unsure about the specifics of the prompt.
+
+## Thoughts
+
+Didn't know exactly how they wanted the output to be.  The directions just stated a two dimensional array to output on a HTML page but it was on and IDE with no HTML page attached so I just wrote down code that takes the input and creates a two dimensional array.
