@@ -420,3 +420,13 @@ Refresher for more SQL commands.  Used this website: https://sqlzoo.net/wiki/SEL
 ## Thoughts
 
 More SQL command skill building.  Learned about ROUND, XOR and LENGTH operator and <> which is the equivalent of NOT EQUAL.
+
+# Day 40 (3/13/2022)
+
+## Codewars
+
+Did a Codewars challenge today.  The challenge was to convert an integer into another integer with two decimal places.
+
+## Thoughts
+
+Not a particularly difficult one but one where I learned something about Python.  I can use :.2f for two decimal places when using an f string.
