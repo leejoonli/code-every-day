@@ -440,3 +440,13 @@ Did a Codewars challenge today.  The challenge was to find the sum of the min va
 ## Thoughts
 
 Still need to work on the Python way to solve these challenges in Python.  Pretty much did a JavaScript way of declaring an empty list, appending the minimum of each list element in the given list, and then returning the sum.
+
+# Day 42 (3/15/2022)
+
+## MongoDB
+
+Revisiting MongoDB, Mongoose, and Express.
+
+## Thoughts
+
+Alot of reviewing for noSQL databases wit MongoDB.  Started an exercise using Mongoose and Express.  Will finish at a later time.
