@@ -430,3 +430,13 @@ Did a Codewars challenge today.  The challenge was to convert an integer into an
 ## Thoughts
 
 Not a particularly difficult one but one where I learned something about Python.  I can use :.2f for two decimal places when using an f string.
+
+# Day 41 (3/14/2022)
+
+## Codewars
+
+Did a Codewars challenge today.  The challenge was to find the sum of the min value of each element in a two dimensional list.
+
+## Thoughts
+
+Still need to work on the Python way to solve these challenges in Python.  Pretty much did a JavaScript way of declaring an empty list, appending the minimum of each list element in the given list, and then returning the sum.
