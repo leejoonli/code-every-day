@@ -460,3 +460,13 @@ Did a Codewars challenge today.  The challenge today was to return a copy of the
 ## Thoughts
 
 Learned something interesting about Python.  You can copy a list by using this syntax '[:]'.  Made a copy, took the min value out, and then returned the list copy.
+
+# Day 44 (3/17/2022)
+
+## MongoDB
+
+Revisiting MongoDB, Mongoose, and Express.
+
+## Thoughts
+
+Almost finished with the MongoDB exercise.  Last thing to add is the endpoints.
