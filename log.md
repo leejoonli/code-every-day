@@ -450,3 +450,13 @@ Revisiting MongoDB, Mongoose, and Express.
 ## Thoughts
 
 Alot of reviewing for noSQL databases wit MongoDB.  Started an exercise using Mongoose and Express.  Will finish at a later time.
+
+# Day 43 (3/16/2022)
+
+## Codewars
+
+Did a Codewars challenge today.
+
+## Thoughts
+
+Alot of reviewing for noSQL databases wit MongoDB.  Started an exercise using Mongoose and Express.  Will finish at a later time.
