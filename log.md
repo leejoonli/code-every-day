@@ -455,8 +455,8 @@ Alot of reviewing for noSQL databases wit MongoDB.  Started an exercise using Mo
 
 ## Codewars
 
-Did a Codewars challenge today.
+Did a Codewars challenge today.  The challenge today was to return a copy of the list but with the min value removed.
 
 ## Thoughts
 
-Alot of reviewing for noSQL databases wit MongoDB.  Started an exercise using Mongoose and Express.  Will finish at a later time.
+Learned something interesting about Python.  You can copy a list by using this syntax '[:]'.  Made a copy, took the min value out, and then returned the list copy.
