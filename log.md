@@ -470,3 +470,13 @@ Revisiting MongoDB, Mongoose, and Express.
 ## Thoughts
 
 Almost finished with the MongoDB exercise.  Last thing to add is the endpoints.
+
+# Day 45 (3/18/2022)
+
+## MongoDB
+
+Revisiting MongoDB, Mongoose, and Express.
+
+## Thoughts
+
+Finshed MongoDB exercise 1.  All routes work.
