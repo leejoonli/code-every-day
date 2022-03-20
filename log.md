@@ -480,3 +480,13 @@ Revisiting MongoDB, Mongoose, and Express.
 ## Thoughts
 
 Finshed MongoDB exercise 1.  All routes work.
+
+# Day 46 (3/19/2022)
+
+## Codewars
+
+Did a Codewars challenge today.  The challenge was to find the total count of drinks and return the count number of glasses of water and return it as a string.
+
+## Thoughts
+
+Did a standard declare/initialize of a variable.  Found all the numeric elements of the string and added them to the count variable.  And then returned it as a string to fulfill the prompt.  The Python version other people did is crazy.
