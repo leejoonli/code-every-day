@@ -490,3 +490,13 @@ Did a Codewars challenge today.  The challenge was to find the total count of dr
 ## Thoughts
 
 Did a standard declare/initialize of a variable.  Found all the numeric elements of the string and added them to the count variable.  And then returned it as a string to fulfill the prompt.  The Python version other people did is crazy.
+
+# Day 47 (3/20/2022)
+
+## Codewars
+
+Did a Codewars challenge today.  The challenge was to find the sum of the ASCII value of two string inputs based on the elements' alphabetical place and return the greater variable.
+
+## Thoughts
+
+Did a standard declare/initialize of a variable, found the sum of the ASCII values of each string, and returned the greater value.  Did not remember to use Python's sum() function.
