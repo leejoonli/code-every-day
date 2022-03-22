@@ -500,3 +500,13 @@ Did a Codewars challenge today.  The challenge was to find the sum of the ASCII 
 ## Thoughts
 
 Did a standard declare/initialize of a variable, found the sum of the ASCII values of each string, and returned the greater value.  Did not remember to use Python's sum() function.
+
+# Day 48 (3/21/2022)
+
+## SQL
+
+Did more SQL command review.
+
+## Thoughts
+
+Learned about using nested SELECT.
