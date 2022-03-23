@@ -510,3 +510,13 @@ Did more SQL command review.
 ## Thoughts
 
 Learned about using nested SELECT.
+
+# Day 49 (3/22/2022)
+
+## SQL and Codewars
+
+Did more SQL command review and Codwars challenge.  The code challenge was to return the difference between the max and min values of a list in Python.
+
+## Thoughts
+
+Practiced more with nested SELECT and started learning about correlated subqueries.  The code challenge was simple but I could've done some code golf and had a one line return statement.  Will remember the if else return statement for later if possible.
