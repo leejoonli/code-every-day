@@ -520,3 +520,13 @@ Did more SQL command review and Codwars challenge.  The code challenge was to re
 ## Thoughts
 
 Practiced more with nested SELECT and started learning about correlated subqueries.  The code challenge was simple but I could've done some code golf and had a one line return statement.  Will remember the if else return statement for later if possible.
+
+# Day 50 (3/23/2022)
+
+## Django, PostgreSQL database exercise 2
+
+Started another exercise using django and postgresql.  Description is in the repository.
+
+## Thoughts
+
+Made initial commits and scaffolded out multiple files.  Will need to install more packages and add urls.py and serializers.py.
