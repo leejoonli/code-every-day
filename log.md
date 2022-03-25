@@ -530,3 +530,13 @@ Started another exercise using django and postgresql.  Description is in the rep
 ## Thoughts
 
 Made initial commits and scaffolded out multiple files.  Will need to install more packages and add urls.py and serializers.py.
+
+# Day 51 (3/24/2022)
+
+## Django, PostgreSQL database exercise 2
+
+Started another exercise using django and postgresql.  Description is in the repository.
+
+## Thoughts
+
+Created initial models, serializers, views, and urls.  Will finish making the rest of the required models, serializers, etc. at a later time.
