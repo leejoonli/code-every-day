@@ -550,3 +550,15 @@ Psuedo finishes database exercise 2.  Added the rest of the models, serializers,
 ## Thoughts
 
 Realized yesterday that I created the django app not where I wanted it to.  Moved around some files but now having a SECRET KEY bug.  Pretty sure the database works if it's able to run.  Will try and fix at a later time.  If I wanted to add to this, it would be authentication.
+
+# Day 53 (3/26/2022)
+
+## Codewars
+
+Did a Codewars challenge today.  The prompt is the following:
+Description:
+You live in the city of Cartesia where all roads are laid out in a perfect grid. You arrived ten minutes too early to an appointment, so you decided to take the opportunity to go for a short walk. The city provides its citizens with a Walk Generating App on their phones -- everytime you press the button it sends you an array of one-letter strings representing directions to walk (eg. ['n', 's', 'w', 'e']). You always walk only a single block for each letter (direction) and you know it takes you one minute to traverse one city block, so create a function that will return true if the walk the app gives you will take you exactly ten minutes (you don't want to be early or late!) and will, of course, return you to your starting point. Return false otherwise.
+
+## Thoughts
+
+Did not realize there was a .count feature for Python lists.  Did a multi-conditional statement keeping track of 'n', 'e', 's', 'w'.  And will remember that you can do a boolean return statement using equality operators.
