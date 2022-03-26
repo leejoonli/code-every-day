@@ -540,3 +540,13 @@ Started another exercise using django and postgresql.  Description is in the rep
 ## Thoughts
 
 Created initial models, serializers, views, and urls.  Will finish making the rest of the required models, serializers, etc. at a later time.
+
+# Day 52 (3/25/2022)
+
+## Django, PostgreSQL database exercise 2
+
+Psuedo finishes database exercise 2.  Added the rest of the models, serializers, views, and urls.
+
+## Thoughts
+
+Realized yesterday that I created the django app not where I wanted it to.  Moved around some files but now having a SECRET KEY bug.  Pretty sure the database works if it's able to run.  Will try and fix at a later time.  If I wanted to add to this, it would be authentication.
