@@ -562,3 +562,13 @@ You live in the city of Cartesia where all roads are laid out in a perfect grid.
 ## Thoughts
 
 Did not realize there was a .count feature for Python lists.  Did a multi-conditional statement keeping track of 'n', 'e', 's', 'w'.  And will remember that you can do a boolean return statement using equality operators.
+
+# Day 54 (3/27/2022)
+
+## Codewars
+
+Did a Codewars challenge today.  The challenge was to return a boolean to see if the function input is a square number.
+
+## Thoughts
+
+Was able to do a single line return statement and kind of looked Python-esque.  Did a ternary return statement, imported math to use the sqrt() function, and tested to see if the square root was an integer and not a float.
