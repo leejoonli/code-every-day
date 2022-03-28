@@ -572,3 +572,13 @@ Did a Codewars challenge today.  The challenge was to return a boolean to see if
 ## Thoughts
 
 Was able to do a single line return statement and kind of looked Python-esque.  Did a ternary return statement, imported math to use the sqrt() function, and tested to see if the square root was an integer and not a float.
+
+# Day 55 (3/28/2022)
+
+## Basic Sorting Algorithms
+
+Reviewed bubble and insertion sort.
+
+## Thoughts
+
+Was able to write a bubble sort algorithm after reviewing the notes from SEIR1115.  Insertion sort was different because I came accross the same / similar solution as I did in the course but it didn't work properly.  Had to look online for reference and came across a different solution.  Can be found here https://stackabuse.com/insertion-sort-in-javascript/ . Ultimately, need to go through the algorithm step by step for visualization purposes and to fully understand what the code was doing.
