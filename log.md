@@ -582,3 +582,13 @@ Reviewed bubble and insertion sort.
 ## Thoughts
 
 Was able to write a bubble sort algorithm after reviewing the notes from SEIR1115.  Insertion sort was different because I came accross the same / similar solution as I did in the course but it didn't work properly.  Had to look online for reference and came across a different solution.  Can be found here https://stackabuse.com/insertion-sort-in-javascript/ . Ultimately, need to go through the algorithm step by step for visualization purposes and to fully understand what the code was doing.
+
+# Day 56 (3/29/2022)
+
+## Divide and Conquer Sorting
+
+Reviewed quick and merge sort.
+
+## Thoughts
+
+Had to go back through my previous solution which was aided by the solutions branch in the GA repository.  Had trouble creating the solution again and needed to break things down more mentally to understand why the code is written the way it is.  Will probably have to come back and review it again.
