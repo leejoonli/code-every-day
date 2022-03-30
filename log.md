@@ -592,3 +592,13 @@ Reviewed quick and merge sort.
 ## Thoughts
 
 Had to go back through my previous solution which was aided by the solutions branch in the GA repository.  Had trouble creating the solution again and needed to break things down more mentally to understand why the code is written the way it is.  Will probably have to come back and review it again.
+
+# Day 57 (3/30/2022)
+
+## Distribution Sorting
+
+Reviewed bucket sort.
+
+## Thoughts
+
+Had to do some review.  The logic for bucket sort seemed easier to grasp than the other sorting algorithms so far.  Had to copy and paste insertion sort because bucket sort uses it.
