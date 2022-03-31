@@ -602,3 +602,13 @@ Reviewed bucket sort.
 ## Thoughts
 
 Had to do some review.  The logic for bucket sort seemed easier to grasp than the other sorting algorithms so far.  Had to copy and paste insertion sort because bucket sort uses it.
+
+# Day 58 (3/31/2022)
+
+## Distribution Sorting
+
+Learned about Radix sort.
+
+## Thoughts
+
+Had to do research about radix sort.  Learned that it implements count sort.  Understand how it works but still need to work on implementation and how it's written in code.
