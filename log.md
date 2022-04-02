@@ -622,3 +622,13 @@ Did a codewars challenge today.  The challenge was to find the max of the differ
 ## Thoughts
 
 Did a very repetative solution.  Very JavaScript-esque but wanted some time to relax so I did some spaghetti code.  Got the solution to work.  Some of the other answers were very Python looking.  Still need alot of practice with Python and what it can do.
+
+# Day 60 (4/2/2022)
+
+## Codewars
+
+Did a codewars challenge today.  The challenge was to swap cases of a string
+
+## Thoughts
+
+Did a for loop to iterate over the sting and then a conditional to check what case the letter is and then swap change it and add it to an empty string.  Then return the new string.  Did not know there was a swapcase() in Python.  Seems very convenient.
