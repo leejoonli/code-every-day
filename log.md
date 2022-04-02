@@ -612,3 +612,13 @@ Learned about Radix sort.
 ## Thoughts
 
 Had to do research about radix sort.  Learned that it implements count sort.  Understand how it works but still need to work on implementation and how it's written in code.
+
+# Day 59 (4/1/2022)
+
+## Codewars
+
+Did a codewars challenge today.  The challenge was to find the max of the difference between two max length elements in two arrays.
+
+## Thoughts
+
+Did a very repetative solution.  Very JavaScript-esque but wanted some time to relax so I did some spaghetti code.  Got the solution to work.  Some of the other answers were very Python looking.  Still need alot of practice with Python and what it can do.
