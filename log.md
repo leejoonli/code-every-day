@@ -632,3 +632,13 @@ Did a codewars challenge today.  The challenge was to swap cases of a string
 ## Thoughts
 
 Did a for loop to iterate over the sting and then a conditional to check what case the letter is and then swap change it and add it to an empty string.  Then return the new string.  Did not know there was a swapcase() in Python.  Seems very convenient.
+
+# Day 61 (4/3/2022)
+
+## Codewars
+
+Did a codewars challenge today.  The challenge was to round a number to the nearest 10th.
+
+## Thoughts
+
+Created a temp variable to divide the input integer by 10.  Then returned round(temp) * 10.  Saw another solution with round() and you can write it like round(i, -1) and it'll round to the nearest tenth.  Need to remember you can use negative numbers in these kinds of functions.
