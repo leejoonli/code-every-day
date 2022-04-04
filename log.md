@@ -642,3 +642,13 @@ Did a codewars challenge today.  The challenge was to round a number to the near
 ## Thoughts
 
 Created a temp variable to divide the input integer by 10.  Then returned round(temp) * 10.  Saw another solution with round() and you can write it like round(i, -1) and it'll round to the nearest tenth.  Need to remember you can use negative numbers in these kinds of functions.
+
+# Day 62 (4/4/2022)
+
+## Binary Search
+
+Reviewed binary search algorithm.
+
+## Thoughts
+
+Able to do the brute force solution of binary search.  Had an unnecessary nested loop while previous solution did not.  Had to reference previous solution for recursion.  Need to remember the default value to arguments in a function.
