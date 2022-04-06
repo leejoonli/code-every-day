@@ -652,3 +652,13 @@ Reviewed binary search algorithm.
 ## Thoughts
 
 Able to do the brute force solution of binary search.  Had an unnecessary nested loop while previous solution did not.  Had to reference previous solution for recursion.  Need to remember the default value to arguments in a function.
+
+# Day 63 (4/5/2022)
+
+## Personal Project
+
+Finally continued the personal project.
+
+## Thoughts
+
+Imported most of the card images.  Not all because they are not labeled and I don't know which is which.
