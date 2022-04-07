@@ -662,3 +662,13 @@ Finally continued the personal project.
 ## Thoughts
 
 Imported most of the card images.  Not all because they are not labeled and I don't know which is which.
+
+# Day 64 (4/6/2022)
+
+## Personal Project
+
+ontinued the personal project.
+
+## Thoughts
+
+Removed flip animation and bad card packing image.  Realized I can't continue until all images are imported.
