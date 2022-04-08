@@ -667,8 +667,18 @@ Imported most of the card images.  Not all because they are not labeled and I do
 
 ## Personal Project
 
-ontinued the personal project.
+Continued the personal project.
 
 ## Thoughts
 
 Removed flip animation and bad card packing image.  Realized I can't continue until all images are imported.
+
+# Day 65 (4/7/2022)
+
+## Codewars
+
+Did a codewars challenge today.  The challenge was to iterate starting from the rightmost on an integer.  Had to convert to string and then back to int.
+
+## Thoughts
+
+Still doing Python challenges in a JavaScript way.  Don't understand one of the other solutions.
