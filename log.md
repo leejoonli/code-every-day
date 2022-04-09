@@ -682,3 +682,13 @@ Did a codewars challenge today.  The challenge was to iterate starting from the 
 ## Thoughts
 
 Still doing Python challenges in a JavaScript way.  Don't understand one of the other solutions.
+
+# Day 66 (4/8/2022)
+
+## Codewars
+
+Did a codewars challenge today.  The challenge was to find if the substring is included at the end of a given string.
+
+## Thoughts
+
+Able to do the code golf one line solution in Python.
