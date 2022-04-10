@@ -692,3 +692,13 @@ Did a codewars challenge today.  The challenge was to find if the substring is i
 ## Thoughts
 
 Able to do the code golf one line solution in Python.
+
+# Day 67 (4/10/2022)
+
+## Codewars
+
+Did a codewars challenge today.  The challenge was to find if if the 2nd input is greater than the average of an array of numbers.
+
+## Thoughts
+
+Did a boolean comparison return statement.
