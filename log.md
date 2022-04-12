@@ -702,3 +702,13 @@ Did a codewars challenge today.  The challenge was to find if if the 2nd input i
 ## Thoughts
 
 Did a boolean comparison return statement.
+
+# Day 68 (4/11/2022)
+
+## Linked list review
+
+Reviewed the GA lesson on linked lists.
+
+## Thoughts
+
+Need to review more.
