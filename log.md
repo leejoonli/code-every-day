@@ -722,3 +722,13 @@ Reviewed code from linked list assignment.
 ## Thoughts
 
 Went over the node class, linked list class, append node, prepend node, pop, remove from front.
+
+# Day 70 (4/13/2022)
+
+## Linked list review
+
+Reviewed code from linked list assignment.
+
+## Thoughts
+
+Went over the insert at, remove at, search, and sort.
