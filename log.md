@@ -732,3 +732,13 @@ Reviewed code from linked list assignment.
 ## Thoughts
 
 Went over the insert at, remove at, search, and sort.
+
+# Day 71 (4/14/2022)
+
+## Hash table review
+
+Reviewed hash table GA lecture.
+
+## Thoughts
+
+Need to start coding hash table logic again.
