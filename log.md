@@ -742,3 +742,13 @@ Reviewed hash table GA lecture.
 ## Thoughts
 
 Need to start coding hash table logic again.
+
+# Day 72 (4/15/2022)
+
+## Codewars
+
+Did a codewars challenge today.  The challenge was to find the longest length string in a list and return the length.
+
+## Thoughts
+
+Was able to do a Python one line return statement.  Learned that you can use key=len in the max() function to get the longest length of a list of strings.
