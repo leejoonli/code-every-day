@@ -752,3 +752,13 @@ Did a codewars challenge today.  The challenge was to find the longest length st
 ## Thoughts
 
 Was able to do a Python one line return statement.  Learned that you can use key=len in the max() function to get the longest length of a list of strings.
+
+# Day 73 (4/16/2022)
+
+## Codewars
+
+Did a codewars challenge today.  The challenge was to return a list of indexes of a string if the index is a vowel.
+
+## Thoughts
+
+Was able to do a Python one line return statement.  Had some trouble because the find index methods in Python don't return the current index of iteration.
