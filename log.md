@@ -762,3 +762,13 @@ Did a codewars challenge today.  The challenge was to return a list of indexes o
 ## Thoughts
 
 Was able to do a Python one line return statement.  Had some trouble because the find index methods in Python don't return the current index of iteration.
+
+# Day 74 (4/17/2022)
+
+## Codewars
+
+Did a codewars challenge today.  The challenge was to return a sorted list if the input is truthy.
+
+## Thoughts
+
+Tried to do a one line return statement but syntax was off.  Was on the right track but didn't quite get it.
