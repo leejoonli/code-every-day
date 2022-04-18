@@ -772,3 +772,13 @@ Did a codewars challenge today.  The challenge was to return a sorted list if th
 ## Thoughts
 
 Tried to do a one line return statement but syntax was off.  Was on the right track but didn't quite get it.
+
+# Day 75 (4/18/2022)
+
+## Personal project
+
+Worked on a personal project.  Finalized background images and removed flip animation.
+
+## Thoughts
+
+Adding an image background is a bit annoying since there's no background image CSS property in React Native.
