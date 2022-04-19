@@ -782,3 +782,13 @@ Worked on a personal project.  Finalized background images and removed flip anim
 ## Thoughts
 
 Adding an image background is a bit annoying since there's no background image CSS property in React Native.
+
+# Day 76 (4/19/2022)
+
+## Personal project
+
+Worked on a personal project.  Finalized application and deployed to Expo servers.
+
+## Thoughts
+
+Adding fonts in React Native is really a process I don't want to go through and the fonts available to Andriod is absolutely minimal.
