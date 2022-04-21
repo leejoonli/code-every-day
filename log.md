@@ -792,3 +792,13 @@ Worked on a personal project.  Finalized application and deployed to Expo server
 ## Thoughts
 
 Adding fonts in React Native is really a process I don't want to go through and the fonts available to Andriod is absolutely minimal.
+
+# Day 77 (4/20/2022)
+
+## Personal project
+
+Reworked on a personal project.
+
+## Thoughts
+
+Mobile app development is now confirmed in my eyes to not be what I want to do.  I cannot deploy a version that others can use without paying for a development account.
