@@ -802,3 +802,13 @@ Reworked on a personal project.
 ## Thoughts
 
 Mobile app development is now confirmed in my eyes to not be what I want to do.  I cannot deploy a version that others can use without paying for a development account.
+
+# Day 78 (4/21/2022)
+
+## Personal project
+
+Reworked on a personal project.
+
+## Thoughts
+
+Redid the application is React and deployed on Netlify.
