@@ -812,3 +812,13 @@ Reworked on a personal project.
 ## Thoughts
 
 Redid the application is React and deployed on Netlify.
+
+# Day 79 (4/23/2022)
+
+## Codewars
+
+Worked on a codewars challenge today.  The challenge was to return a boolean if the input is a narcissistic number (sum of the each character in the integer to the power of the length of the integer)
+
+## Thoughts
+
+Find it difficult to be Python esque with more complex algorithms.
