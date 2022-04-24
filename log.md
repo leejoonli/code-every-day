@@ -822,3 +822,13 @@ Worked on a codewars challenge today.  The challenge was to return a boolean if 
 ## Thoughts
 
 Find it difficult to be Python esque with more complex algorithms.
+
+# Day 80 (4/24/2022)
+
+## Codewars
+
+Worked on a codewars challenge today.  The challenge was to return a list of some strings depending on a conditional.
+
+## Thoughts
+
+Tried to do a Python answer but wasn't sure how with a ternary return statement.
