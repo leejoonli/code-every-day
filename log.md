@@ -832,3 +832,13 @@ Worked on a codewars challenge today.  The challenge was to return a list of som
 ## Thoughts
 
 Tried to do a Python answer but wasn't sure how with a ternary return statement.
+
+# Day 81 (4/25/2022)
+
+## Hash Table
+
+Reviewed the hash table lesson and did a couple methods for the code.
+
+## Thoughts
+
+Mentally I have an idea on how it should work using walker but hard to put things into code with these complex data structures.
