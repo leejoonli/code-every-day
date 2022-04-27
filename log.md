@@ -842,3 +842,13 @@ Reviewed the hash table lesson and did a couple methods for the code.
 ## Thoughts
 
 Mentally I have an idea on how it should work using walker but hard to put things into code with these complex data structures.
+
+# Day 82 (4/26/2022)
+
+## Hash Table
+
+Reviewed the rest of the hash table lesson.
+
+## Thoughts
+
+Need to remember that these data structures can have other data structures and you can access methods in those classes.
