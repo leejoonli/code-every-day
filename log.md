@@ -852,3 +852,13 @@ Reviewed the rest of the hash table lesson.
 ## Thoughts
 
 Need to remember that these data structures can have other data structures and you can access methods in those classes.
+
+# Day 83 (4/27/2022)
+
+## C#
+
+Started an introduction to C#
+
+## Thoughts
+
+Mostly went over concepts used in C# and .NET.  Went over classes, namespaces (group of related classes), assemblies (group of related namespaces), CLR (common language runtime), IL (intermediate language).  C# is a programming language while .NET is a framework for building applications on Windows.
