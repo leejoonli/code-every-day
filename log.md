@@ -857,8 +857,18 @@ Need to remember that these data structures can have other data structures and y
 
 ## C#
 
-Started an introduction to C#
+Started an introduction to C#.
 
 ## Thoughts
 
 Mostly went over concepts used in C# and .NET.  Went over classes, namespaces (group of related classes), assemblies (group of related namespaces), CLR (common language runtime), IL (intermediate language).  C# is a programming language while .NET is a framework for building applications on Windows.
+
+# Day 84 (4/28/2022)
+
+## C#
+
+Continued learning about C#.
+
+## Thoughts
+
+Went over more basics of C#.  How to declare variables and initialize them, naming conventions, overflow, scope, and went over a basic console application.
