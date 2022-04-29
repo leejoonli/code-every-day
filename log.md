@@ -872,3 +872,13 @@ Continued learning about C#.
 ## Thoughts
 
 Went over more basics of C#.  How to declare variables and initialize them, naming conventions, overflow, scope, and went over a basic console application.
+
+# Day 85 (4/29/2022)
+
+## C#
+
+Continued learning about C#.
+
+## Thoughts
+
+Went over more basics of C#.  Type conversion (implicit: byte->int depending on the value of byte it will add zeros to compensate for the lack of memory, explicit: int->byte will likely cause memory leak, and non-compatible types: str->int will need either Convert class in the System namespace or a parsing function which is included but I forgot the syntax) and operators.  The operators look exactly like other programming languages.  Mentioned bitwise operators but did not go in depth.
