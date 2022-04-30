@@ -882,3 +882,13 @@ Continued learning about C#.
 ## Thoughts
 
 Went over more basics of C#.  Type conversion (implicit: byte->int depending on the value of byte it will add zeros to compensate for the lack of memory, explicit: int->byte will likely cause memory leak, and non-compatible types: str->int will need either Convert class in the System namespace or a parsing function which is included but I forgot the syntax) and operators.  The operators look exactly like other programming languages.  Mentioned bitwise operators but did not go in depth.
+
+# Day 86 (4/30/2022)
+
+## Codewars
+
+Did a codewars challenge today.  The challenge was to validate if a given string input is an IP address.  Leading zeros are considered false.
+
+## Thoughts
+
+Did not know how to do this the Python way.  Did a loop and conditionals to check for edge cases.  Some of the other answers seem intense.
