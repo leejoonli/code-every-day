@@ -892,3 +892,13 @@ Did a codewars challenge today.  The challenge was to validate if a given string
 ## Thoughts
 
 Did not know how to do this the Python way.  Did a loop and conditionals to check for edge cases.  Some of the other answers seem intense.
+
+# Day 87 (5/1/2022)
+
+## Codewars
+
+Did a codewars challenge today.  The challenge was to mask a string input with hashes except the last 4 characters.
+
+## Thoughts
+
+Did a basic variable and loop to iterate through and had conditionals for whether or not to use a hash or the character in the string.
