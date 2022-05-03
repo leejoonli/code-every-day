@@ -902,3 +902,13 @@ Did a codewars challenge today.  The challenge was to mask a string input with h
 ## Thoughts
 
 Did a basic variable and loop to iterate through and had conditionals for whether or not to use a hash or the character in the string.
+
+# Day 88 (5/2/2022)
+
+## C#
+
+Continued learning about C#.
+
+## Thoughts
+
+Practiced loops, conditionals, variable data types and operators.
