@@ -912,3 +912,13 @@ Continued learning about C#.
 ## Thoughts
 
 Practiced loops, conditionals, variable data types and operators.
+
+# Day 89 (5/3/2022)
+
+## C#
+
+Continued learning about C#.
+
+## Thoughts
+
+Practiced lists (arrays) and looping through the array.
