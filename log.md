@@ -932,3 +932,13 @@ Continued learning about C#.
 ## Thoughts
 
 Practiced classes, objects, and methods.
+
+# Day 91 (5/5/2022)
+
+## Codewars
+
+Did a codewars challenge today.  The challenge was to Jaden case a string (capitalize every word in a sentence).
+
+## Thoughts
+
+Did a basic variable declaration and used split method and join method to create the new capitalized words.  Looking at the other solutions, it could've been combined into a single line return statement.
