@@ -922,3 +922,13 @@ Continued learning about C#.
 ## Thoughts
 
 Practiced lists (arrays) and looping through the array.
+
+# Day 90 (5/4/2022)
+
+## C#
+
+Continued learning about C#.
+
+## Thoughts
+
+Practiced classes, objects, and methods.
