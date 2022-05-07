@@ -942,3 +942,13 @@ Did a codewars challenge today.  The challenge was to Jaden case a string (capit
 ## Thoughts
 
 Did a basic variable declaration and used split method and join method to create the new capitalized words.  Looking at the other solutions, it could've been combined into a single line return statement.
+
+# Day 92 (5/6/2022)
+
+## Codewars
+
+Did a codewars challenge today.  The challenge was to find the number of numbers in a range that don't contain the number 5.
+
+## Thoughts
+
+Used a list and appended numbers based on a conditional that didn't include 5.  Had to convert each iteration to a string and see if the string 5 was in the current iteration.  Then returned the length of the list.  Looking at the other solutions, it was essentially the same thing but condensed into a single line return statement.
