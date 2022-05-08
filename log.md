@@ -952,3 +952,13 @@ Did a codewars challenge today.  The challenge was to find the number of numbers
 ## Thoughts
 
 Used a list and appended numbers based on a conditional that didn't include 5.  Had to convert each iteration to a string and see if the string 5 was in the current iteration.  Then returned the length of the list.  Looking at the other solutions, it was essentially the same thing but condensed into a single line return statement.
+
+# Day 93 (5/7/2022)
+
+## Codewars
+
+Did a codewars challenge today.  The challenge was to return an array (list) of numbers that correspond with whether or not an index of a letter in a string matches its alphabetical position.
+
+## Thoughts
+
+Created a list to store the numbers, looped through the list, initialized a count variable, iterated through each string, compared whether the current letter's index matches its alphabetical counterpart, and if it did increased the count variable, then appended the count variable to the list and returned the list.  Had to break this problem down more than I originally thought.
