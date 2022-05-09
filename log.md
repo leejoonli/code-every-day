@@ -962,3 +962,13 @@ Did a codewars challenge today.  The challenge was to return an array (list) of 
 ## Thoughts
 
 Created a list to store the numbers, looped through the list, initialized a count variable, iterated through each string, compared whether the current letter's index matches its alphabetical counterpart, and if it did increased the count variable, then appended the count variable to the list and returned the list.  Had to break this problem down more than I originally thought.
+
+# Day 94 (5/8/2022)
+
+## Codewars
+
+Did a codewars challenge today.  The challenge was to return the nth root of a number.
+
+## Thoughts
+
+Turns out there's a mathematical operation that you can write in code that isn't a predetermined function in Python.  x**(1/n) to get the nth root of x.
