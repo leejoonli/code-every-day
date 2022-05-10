@@ -972,3 +972,13 @@ Did a codewars challenge today.  The challenge was to return the nth root of a n
 ## Thoughts
 
 Turns out there's a mathematical operation that you can write in code that isn't a predetermined function in Python.  x**(1/n) to get the nth root of x.
+
+# Day 95 (5/9/2022)
+
+## C#
+
+Reviewed what I learned earlier about C#.  Started to learn about LINQ.
+
+## Thoughts
+
+Very similar to SQL commands and JS array iterator methods.  There's something about enumerable and enumerator which I don't fully understand but will look into later.
