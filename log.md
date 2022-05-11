@@ -982,3 +982,13 @@ Reviewed what I learned earlier about C#.  Started to learn about LINQ.
 ## Thoughts
 
 Very similar to SQL commands and JS array iterator methods.  There's something about enumerable and enumerator which I don't fully understand but will look into later.
+
+# Day 96 (5/10/2022)
+
+## C#
+
+Continued learning about C#.  Learning more about LINQ and async / await.
+
+## Thoughts
+
+Understand that LINQ is used to query data from a database in C# but don't fully understand why you should use the queries.  Async and await seem similar to what I saw in JS but the keywords are attached to the function names.  Need to read more.
