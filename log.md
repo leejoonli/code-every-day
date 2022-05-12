@@ -992,3 +992,13 @@ Continued learning about C#.  Learning more about LINQ and async / await.
 ## Thoughts
 
 Understand that LINQ is used to query data from a database in C# but don't fully understand why you should use the queries.  Async and await seem similar to what I saw in JS but the keywords are attached to the function names.  Need to read more.
+
+# Day 97 (5/11/2022)
+
+## C#
+
+Continued learning about C#.  Learning more about async / await.
+
+## Thoughts
+
+Reading about Tasks and returning the Task object.  Learned about a couple attached methods of Task.  Need practice making async code.  Mostly read documentation about async.
