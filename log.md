@@ -1001,4 +1001,4 @@ Continued learning about C#.  Learning more about async / await.
 
 ## Thoughts
 
-Reading about Tasks and returning the Task object.  Learned about a couple attached methods of Task.  Need practice making async code.  Mostly read documentation about async.
+Learning more about the concept of async / await, when to use it, some nuances about Task and awaiting return value.  Following a C# video tutorial series CSharpFritz.
