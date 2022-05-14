@@ -1002,3 +1002,13 @@ Continued learning about C#.  Learning more about async / await.
 ## Thoughts
 
 Learning more about the concept of async / await, when to use it, some nuances about Task and awaiting return value.  Following a C# video tutorial series CSharpFritz.
+
+# Day 98 (5/12/2022)
+
+## C#
+
+Continued learning about C#.  Learning more about async / await.
+
+## Thoughts
+
+Continued following a C# video tutorial series CSharpFritz about async / await.  Still have a long way to go.
