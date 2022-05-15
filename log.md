@@ -1012,3 +1012,13 @@ Continued learning about C#.  Learning more about async / await.
 ## Thoughts
 
 Continued following a C# video tutorial series CSharpFritz about async / await.  Still have a long way to go.
+
+# Day 99 (5/14/2022)
+
+## Codewars
+
+Did a codewars challenge today.  The challenge was to find the minimum number of laps given two integer inputs two people have to do before they meet each other again.
+
+## Thoughts
+
+Looked like a case of finding the lowest common multiple of each integer input.  math.lcm didn't seem to work, probably because of version number based off of stack overflow answers, so created another function to return lcm, then returned two integers based off the input and the lcm.
