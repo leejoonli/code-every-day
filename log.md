@@ -1022,3 +1022,13 @@ Did a codewars challenge today.  The challenge was to find the minimum number of
 ## Thoughts
 
 Looked like a case of finding the lowest common multiple of each integer input.  math.lcm didn't seem to work, probably because of version number based off of stack overflow answers, so created another function to return lcm, then returned two integers based off the input and the lcm.
+
+# Day 100 (5/15/2022)
+
+## Codewars
+
+Did a codewars challenge today.  The challenge was to convert the sum of two integers into binary.
+
+## Thoughts
+
+Looked online and found bin() is a built in Python method.  It prefixes with 0b so used .replace() to get rid of the prefix.
