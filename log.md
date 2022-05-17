@@ -1032,3 +1032,13 @@ Did a codewars challenge today.  The challenge was to convert the sum of two int
 ## Thoughts
 
 Looked online and found bin() is a built in Python method.  It prefixes with 0b so used .replace() to get rid of the prefix.
+
+# Day 101 (5/16/2022)
+
+## Codewars
+
+Did a codewars challenge today.  The challenge was to find if an array had a subset array inside it.
+
+## Thoughts
+
+Used a rather long conditional statement to return the correct value.  Saw a {}.issubset(set(array)) solution and thought it was really intersting.
