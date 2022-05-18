@@ -1042,3 +1042,13 @@ Did a codewars challenge today.  The challenge was to find if an array had a sub
 ## Thoughts
 
 Used a rather long conditional statement to return the correct value.  Saw a {}.issubset(set(array)) solution and thought it was really intersting.
+
+# Day 102 (5/17/2022)
+
+## C#
+
+Continued learning about C#.  Finished video lesson on async / await.  Read documentation on creating an API with ASP.NET Core.
+
+## Thoughts
+
+I think I have a basic understanding of what the documentation example is trying to explain and of C# as a programming language.  Need to start coding.
