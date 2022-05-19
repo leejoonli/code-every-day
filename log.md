@@ -1052,3 +1052,13 @@ Continued learning about C#.  Finished video lesson on async / await.  Read docu
 ## Thoughts
 
 I think I have a basic understanding of what the documentation example is trying to explain and of C# as a programming language.  Need to start coding.
+
+# Day 103 (5/18/2022)
+
+## C#, Portfolio, Django Database
+
+Worked on API with C# and .NET Core, updated Python PostgreSQL database 1 and portfolio.
+
+## Thoughts
+
+Deployed database to heroku and updated portfolio to match.  Running into an error with the API exercise.  Will look into tomorrow.
