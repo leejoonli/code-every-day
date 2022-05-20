@@ -1062,3 +1062,13 @@ Worked on API with C# and .NET Core, updated Python PostgreSQL database 1 and po
 ## Thoughts
 
 Deployed database to heroku and updated portfolio to match.  Running into an error with the API exercise.  Will look into tomorrow.
+
+# Day 104 (5/19/2022)
+
+## C#, Django Database Documentation
+
+Worked on API with C# and .NET Core, updated Python PostgreSQL database 1 README.md.
+
+## Thoughts
+
+Able to solve the API error.  Continued with the walkthrough in the Microsoft documentation.  Not complete yet.
