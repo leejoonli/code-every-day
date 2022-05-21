@@ -1072,3 +1072,13 @@ Worked on API with C# and .NET Core, updated Python PostgreSQL database 1 README
 ## Thoughts
 
 Able to solve the API error.  Continued with the walkthrough in the Microsoft documentation.  Not complete yet.
+
+# Day 105 (5/20/2022)
+
+## C#
+
+Finsihed todo API with C# and .NET Core.
+
+## Thoughts
+
+Finished the walkthrough.  Not going to deploy to Azure because it's a subscription.
