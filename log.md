@@ -1082,3 +1082,13 @@ Finsihed todo API with C# and .NET Core.
 ## Thoughts
 
 Finished the walkthrough.  Not going to deploy to Azure because it's a subscription.
+
+# Day 106 (5/23/2022)
+
+## Stacks and Queues
+
+Reviewed the lesson on stacks and queues.
+
+## Thoughts
+
+Finished an array based stack and queue.  Will need to read up on extra material for this topic later on.
