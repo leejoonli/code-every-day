@@ -1092,3 +1092,13 @@ Reviewed the lesson on stacks and queues.
 ## Thoughts
 
 Finished an array based stack and queue.  Will need to read up on extra material for this topic later on.
+
+# Day 107 (5/24/2022)
+
+## Stacks
+
+Did some independent learning about stacks.
+
+## Thoughts
+
+The use of stacks is more common than I realized and can be given in many coding interviews.  Need to brush up more on stacks and queues.
