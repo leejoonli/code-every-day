@@ -1102,3 +1102,13 @@ Did some independent learning about stacks.
 ## Thoughts
 
 The use of stacks is more common than I realized and can be given in many coding interviews.  Need to brush up more on stacks and queues.
+
+# Day 108 (5/25/2022)
+
+## Stacks
+
+Did some independent learning about stacks.
+
+## Thoughts
+
+The implementation of stacks for certain problems is more complicated than I though.  Looked over infix to postfix operands.  Didn't quite understand how to read postfix at the start but after a question on geek for geeks I have a better understanding.
