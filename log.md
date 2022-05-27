@@ -1122,3 +1122,13 @@ Did some independent learning about queues.
 ## Thoughts
 
 Read up about priority queues and how they could be implemented.  Instead of just the base value, you could use something like an object which also holds a property of the priority.  Then you would have to order the queue based on priority.  There are different organizations of queues, ASC or DESC, which affects the heap inside memory.
+
+# Day 110 (5/27/2022)
+
+## Sets
+
+Did some review on the sets lecture.  Did the classic two sum problem.
+
+## Thoughts
+
+Redid the JS sets implementation from the GA lecture/homework.  Able to get through it, the last method confused me since the test was coming out failed.  Had to do with the order of the set returned.  Wrote a better two sum solution using a set.  Don't know why I was trying to create a nested for loop and use a set at the same time the first time around.
