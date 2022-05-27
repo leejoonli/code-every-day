@@ -1112,3 +1112,13 @@ Did some independent learning about stacks.
 ## Thoughts
 
 The implementation of stacks for certain problems is more complicated than I though.  Looked over infix to postfix operands.  Didn't quite understand how to read postfix at the start but after a question on geek for geeks I have a better understanding.
+
+# Day 109 (5/26/2022)
+
+## Queues
+
+Did some independent learning about queues.
+
+## Thoughts
+
+Read up about priority queues and how they could be implemented.  Instead of just the base value, you could use something like an object which also holds a property of the priority.  Then you would have to order the queue based on priority.  There are different organizations of queues, ASC or DESC, which affects the heap inside memory.
