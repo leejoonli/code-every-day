@@ -1132,3 +1132,13 @@ Did some review on the sets lecture.  Did the classic two sum problem.
 ## Thoughts
 
 Redid the JS sets implementation from the GA lecture/homework.  Able to get through it, the last method confused me since the test was coming out failed.  Had to do with the order of the set returned.  Wrote a better two sum solution using a set.  Don't know why I was trying to create a nested for loop and use a set at the same time the first time around.
+
+# Day 111 (5/30/2022)
+
+## Hash Tables
+
+Did some review on hash table lecture again.
+
+## Thoughts
+
+Looked over the code for recreating a hash table and was reminded of an array method I forgot about (Array.fill()).  Used linked lists inside an array.  OOP is pretty much the cornerstone in data structures in general.  I think time complexity is (O(n + 1) so it rounds to O(n) since we only care about the general complexity and not the specifics?).
