@@ -1142,3 +1142,13 @@ Did some review on hash table lecture again.
 ## Thoughts
 
 Looked over the code for recreating a hash table and was reminded of an array method I forgot about (Array.fill()).  Used linked lists inside an array.  OOP is pretty much the cornerstone in data structures in general.  I think time complexity is (O(n + 1) so it rounds to O(n) since we only care about the general complexity and not the specifics?).
+
+# Day 112 (5/31/2022)
+
+## Graphs
+
+Did some review on GA graphs lecture.
+
+## Thoughts
+
+Refreshed on breadth first search (one side, recursion, like a finding the exit to a maze) and depth first search (one level at a time), adjacency list (object with array properties) and adjacency matrix (2d array of ones and zeros), direct (one node to the other, one direction) and undirect (relation from both nodes to each other).
