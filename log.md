@@ -1152,3 +1152,13 @@ Did some review on GA graphs lecture.
 ## Thoughts
 
 Refreshed on breadth first search (one side, recursion, like a finding the exit to a maze) and depth first search (one level at a time), adjacency list (object with array properties) and adjacency matrix (2d array of ones and zeros), direct (one node to the other, one direction) and undirect (relation from both nodes to each other).
+
+# Day 113 (6/1/2022)
+
+## Binary Trees
+
+Did some review on GA binary tree lecture.
+
+## Thoughts
+
+Refreshed on the properties of a tree (root, leaf nodes, edges, key, siblings, parent, child, subtree, height), reviewed types of binary trees (full, degenerate, balanced, perfect, complete), reviewed traversing a binary tree with loops and recursion.  Need to finish out code review.
