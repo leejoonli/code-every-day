@@ -1162,3 +1162,13 @@ Did some review on GA binary tree lecture.
 ## Thoughts
 
 Refreshed on the properties of a tree (root, leaf nodes, edges, key, siblings, parent, child, subtree, height), reviewed types of binary trees (full, degenerate, balanced, perfect, complete), reviewed traversing a binary tree with loops and recursion.  Need to finish out code review.
+
+# Day 114 (6/2/2022)
+
+## AVL Trees
+
+Did some review on GA AVL tree lecture.
+
+## Thoughts
+
+Still don't fully understand how self balancing trees work.  Need to to more work and learning.
