@@ -1172,3 +1172,13 @@ Did some review on GA AVL tree lecture.
 ## Thoughts
 
 Still don't fully understand how self balancing trees work.  Need to to more work and learning.
+
+# Day 115 (6/3/2022)
+
+## DevOps Pipeline, Codewars
+
+Did some reading on DevOps Pipeline and a codewars challenge.  The challenge was to return the sum of the smallest two integers in a list in Python.
+
+## Thoughts
+
+There's a handy list.sort() method but when I was trying to use it, it was giving me a type error.  So I used sorted() and added the first two indices and returned the value and it seemed to work.  DevOps is getting more interesting as I read into it.  Read about CI/CD and how DevOps is the proprietor of that ideal.  The idea of creating an environment that has little downtime and is continuously monitored and tested is fascinating.  Need to do more reading and practice creating a pipeline.  Will follow the tutorial here https://www.atlassian.com/devops/continuous-delivery-tutorials/jira-jfrog-pipelines.
