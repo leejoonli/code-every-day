@@ -1182,3 +1182,13 @@ Did some reading on DevOps Pipeline and a codewars challenge.  The challenge was
 ## Thoughts
 
 There's a handy list.sort() method but when I was trying to use it, it was giving me a type error.  So I used sorted() and added the first two indices and returned the value and it seemed to work.  DevOps is getting more interesting as I read into it.  Read about CI/CD and how DevOps is the proprietor of that ideal.  The idea of creating an environment that has little downtime and is continuously monitored and tested is fascinating.  Need to do more reading and practice creating a pipeline.  Will follow the tutorial here https://www.atlassian.com/devops/continuous-delivery-tutorials/jira-jfrog-pipelines.
+
+# Day 115 (6/3/2022)
+
+## DevOps Pipeline
+
+Did some more reading on DevOps.
+
+## Thoughts
+
+Read about DevOps toolchain and test automation.  There are multiple tools each having its own purpose whether it be planning, building, or monitoring the deployed application.  And it requires that all teams work together and test incrementally and often so that the deployed version is good to go and to also fix any issues rapidly.  Read about infrastructure as code.  Don't completely understand and will need to read into it further along with product manager examples and automated testing tools.
