@@ -1202,3 +1202,13 @@ Did some more reading on DevOps.
 ## Thoughts
 
 Read about YAML.  Yet Another Markup Language is interesting to learn about.  The codeifying of test automation is cool but I don't know how it works under the hood.  The YAML pipeline has the stage -> job -> script/task.  Stage ex: Build, Deployment, Monitoring. Job: Things to do/test. Script/task: how to do/test.  The cool thing about YAML pipeline is that you can edit the file directly using a text editor rather than using a specified tool to edit the file.  You can get it from the repository and make changes and commit those changes and the YAML file will be edited and executable afterwards.
+
+# Day 118 (6/8/2022)
+
+## DevOps Pipeline
+
+Did some more reading on DevOps.
+
+## Thoughts
+
+Learned about a very basic multistage YAML pipeline.  Each stage will be dependent on the previous artifact being successfully built.  The last stage will stage the pipeline and then move it to production.  Each stage will execute commands and built artifacts to be used on the next stage.  This is getting more and more complicated but interesting.
