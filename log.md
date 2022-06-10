@@ -1212,3 +1212,13 @@ Did some more reading on DevOps.
 ## Thoughts
 
 Learned about a very basic multistage YAML pipeline.  Each stage will be dependent on the previous artifact being successfully built.  The last stage will stage the pipeline and then move it to production.  Each stage will execute commands and built artifacts to be used on the next stage.  This is getting more and more complicated but interesting.
+
+# Day 119 (6/9/2022)
+
+## Docker
+
+Did some more reading on Docker.
+
+## Thoughts
+
+Docker is a platform as a service that packages software in "containers" which can be accessed and run on site and in public or private cloud.  The parts of a docker is: the Docker daemon, which manages the container and handles container objects, the objects which are images (a read only template used to build containers/used to store and ship applications), container (an encapsulated environment that runs applications), and service (allows containers to be scaled across multiple daemons/a set of cooperating daemons are called a swarm and it communicates through the Docker API), and registries which is a repository of all the Docker images.
