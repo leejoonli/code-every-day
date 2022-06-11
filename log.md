@@ -1222,3 +1222,13 @@ Did some more reading on Docker.
 ## Thoughts
 
 Docker is a platform as a service that packages software in "containers" which can be accessed and run on site and in public or private cloud.  The parts of a docker is: the Docker daemon, which manages the container and handles container objects, the objects which are images (a read only template used to build containers/used to store and ship applications), container (an encapsulated environment that runs applications), and service (allows containers to be scaled across multiple daemons/a set of cooperating daemons are called a swarm and it communicates through the Docker API), and registries which is a repository of all the Docker images.
+
+# Day 120 (6/10/2022)
+
+## Codewars
+
+Did a codewars challenge today.  The challenge was to create a new property with a string value on every element in a dict in Python using already existing dict properties.
+
+## Thoughts
+
+Did a very simple for loop and added a new property on each dict in the list.  Tried doing a single line return statement but was not successful.  The single line return statement has a **dev which I'm not exactly sure what it does.  It looks like it allows you to pass multiple arguments to a function directly noted by this stack overflow answer: https://stackoverflow.com/questions/36901/what-does-double-star-asterisk-and-star-asterisk-do-for-parameters.
