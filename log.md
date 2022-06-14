@@ -1232,3 +1232,13 @@ Did a codewars challenge today.  The challenge was to create a new property with
 ## Thoughts
 
 Did a very simple for loop and added a new property on each dict in the list.  Tried doing a single line return statement but was not successful.  The single line return statement has a **dev which I'm not exactly sure what it does.  It looks like it allows you to pass multiple arguments to a function directly noted by this stack overflow answer: https://stackoverflow.com/questions/36901/what-does-double-star-asterisk-and-star-asterisk-do-for-parameters.
+
+# Day 121 (6/13/2022)
+
+## Codewars
+
+Did a codewars challenge today.  The challenge was to return a list with n elements that are even, negative included.
+
+## Thoughts
+
+Couldn't think of a way to do a one line return statement.  Did a loop and a conditional after n elements were appended in the list.  The other solutions are very elegant.  Was wondering if I could use a negative iteration and it turns out it's possible with [-n:] and a loop inside the return list.
