@@ -1242,3 +1242,13 @@ Did a codewars challenge today.  The challenge was to return a list with n eleme
 ## Thoughts
 
 Couldn't think of a way to do a one line return statement.  Did a loop and a conditional after n elements were appended in the list.  The other solutions are very elegant.  Was wondering if I could use a negative iteration and it turns out it's possible with [-n:] and a loop inside the return list.
+
+# Day 122 (6/14/2022)
+
+## Docker
+
+Played around with Docker.
+
+## Thoughts
+
+Read more into Docker and created a beginner container following the tutorial.  Will continue with finishing tutorial at a later time.
