@@ -1252,3 +1252,13 @@ Played around with Docker.
 ## Thoughts
 
 Read more into Docker and created a beginner container following the tutorial.  Will continue with finishing tutorial at a later time.
+
+# Day 123 (6/15/2022)
+
+## Docker and Codewars
+
+Read Docker documentation and did a codewars challenge today.  The challenge was to prefix the string elements in a list with numbers.
+
+## Thoughts
+
+Did a basic for loop and added to the beginning of the string.  Need to keep trying the one line return statements.
