@@ -1262,3 +1262,13 @@ Read Docker documentation and did a codewars challenge today.  The challenge was
 ## Thoughts
 
 Did a basic for loop and added to the beginning of the string.  Need to keep trying the one line return statements.
+
+# Day 124 (6/16/2022)
+
+## Codewars
+
+Did a codewars challenge today.  The challenge was to add n elements and alternate what gets appended.
+
+## Thoughts
+
+Did a basic for loop and added a conditional based off the index.  One Python-esque solution is very interesting (return [[first_value, second_value][i % 2] for i in range(n)]).  There was another one that I did understand and now I remember that you can use a ternary loop in the returned list.
