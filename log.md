@@ -1272,3 +1272,13 @@ Did a codewars challenge today.  The challenge was to add n elements and alterna
 ## Thoughts
 
 Did a basic for loop and added a conditional based off the index.  One Python-esque solution is very interesting (return [[first_value, second_value][i % 2] for i in range(n)]).  There was another one that I did understand and now I remember that you can use a ternary loop in the returned list.
+
+# Day 125 (6/17/2022)
+
+## Codewars
+
+Did a codewars challenge today.  The challenge was to return the middle index of a string, if the string had an even length, return the two middle indices.
+
+## Thoughts
+
+Didn't realize when you divide a len() in Python, it returns as a decimal.  Need to learn more about the [:] Python syntax.
