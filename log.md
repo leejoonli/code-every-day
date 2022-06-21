@@ -1282,3 +1282,13 @@ Did a codewars challenge today.  The challenge was to return the middle index of
 ## Thoughts
 
 Didn't realize when you divide a len() in Python, it returns as a decimal.  Need to learn more about the [:] Python syntax.
+
+# Day 126 (6/20/2022)
+
+## Codewars
+
+Did a codewars challenge today.  The challenge was to remove elements from one list based off the elements in another list.
+
+## Thoughts
+
+Did a for loop with a filter and .__ne__ which was cool but the other solutions were so much simpler and more in line with Python coding.  A single line return with a loop in the brackets.
