@@ -1292,3 +1292,13 @@ Did a codewars challenge today.  The challenge was to remove elements from one l
 ## Thoughts
 
 Did a for loop with a filter and .__ne__ which was cool but the other solutions were so much simpler and more in line with Python coding.  A single line return with a loop in the brackets.
+
+# Day 127 (6/21/2022)
+
+## Codewars
+
+Did a codewars challenge today.  The challenge was to return a modified string input with no vowels.
+
+## Thoughts
+
+Did a basic loop with a conditional and a list of all the vowels needed to be searched for.  Could've just created a string instead of a list inside the conditional.
