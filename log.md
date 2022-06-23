@@ -1302,3 +1302,13 @@ Did a codewars challenge today.  The challenge was to return a modified string i
 ## Thoughts
 
 Did a basic loop with a conditional and a list of all the vowels needed to be searched for.  Could've just created a string instead of a list inside the conditional.
+
+# Day 128 (6/22/2022)
+
+## Codewars
+
+Did a codewars challenge today.  The challenge was to return the next perfect square.
+
+## Thoughts
+
+Did some basic algebra to find if the input is a perfect square, then add 1 to the perfect square, and then square it and return the value.  Forgot that there's a Python method called .is_integer() to find if the input was a perfect square.
