@@ -1312,3 +1312,13 @@ Did a codewars challenge today.  The challenge was to return the next perfect sq
 ## Thoughts
 
 Did some basic algebra to find if the input is a perfect square, then add 1 to the perfect square, and then square it and return the value.  Forgot that there's a Python method called .is_integer() to find if the input was a perfect square.
+
+# Day 129 (6/23/2022)
+
+## Codewars
+
+Did a codewars challenge today.  The challenge was to return a list of a string input split by two chars.  If the length is odd add a '_'.
+
+## Thoughts
+
+Initialized an empty list.  Did a loop and appended each two chars into the list.  Then returned the list.
