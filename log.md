@@ -1322,3 +1322,13 @@ Did a codewars challenge today.  The challenge was to return a list of a string 
 ## Thoughts
 
 Initialized an empty list.  Did a loop and appended each two chars into the list.  Then returned the list.
+
+# Day 130 (6/24/2022)
+
+## Codewars
+
+Did a codewars challenge today.  The challenge was to return the number of 1s in a binary string conversion of an integer input.
+
+## Thoughts
+
+Had difficulty understanding what the prompt was asking me to do.  Originally, I thought the prompt was asking to return the length of the bit conversion but it was asking to return the count of 1s in the bit conversion.  Found the bin() method which converts an integer into the binary string.  Looped over the string and counted the number of 1s and return it.  Could've used the .count() method.  return bin(n).count('1');
