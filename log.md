@@ -1332,3 +1332,13 @@ Did a codewars challenge today.  The challenge was to return the number of 1s in
 ## Thoughts
 
 Had difficulty understanding what the prompt was asking me to do.  Originally, I thought the prompt was asking to return the length of the bit conversion but it was asking to return the count of 1s in the bit conversion.  Found the bin() method which converts an integer into the binary string.  Looped over the string and counted the number of 1s and return it.  Could've used the .count() method.  return bin(n).count('1');
+
+# Day 131 (6/27/2022)
+
+## Codewars and Docker
+
+Learned more about Docker today and did a codewars challenge today.  The challenge was to return a camelCase version of a string.
+
+## Thoughts
+
+Learned about very basic docker commands, the vital difference between images and containers (containers are more the environment and images are the things inside the environment to run the program).  Couldn't figure out how to do a one line return statement for the code challenge.  Did some basic methods to get the string how I wanted and returned it.
