@@ -1352,3 +1352,13 @@ Learned more about Docker today and did a codewars challenge today.  The challen
 ## Thoughts
 
 Learned more docker commands, how to run multiple services, and how to build a docker image.  Going to need to do actual practice to solidify knowledge from video tutorial.  If you change the custom docker image, you need to build it again (stop container, delete container, delete image, rebuild).  The code challenge was easier than I thought but still can't do it in a single line return statement.  Need to remember that I can use the return value of methods more than I think.
+
+# Day 133 (6/29/2022)
+
+## Codewars and Docker
+
+Learned more about Docker today and did a codewars challenge today.  The challenge was to return sorted string based off a number in the string.
+
+## Thoughts
+
+Learned about building your own docker image using a Dockerfile, pushing to a private repository, deploying through docker, and persisting data through docker volume.  I need to review what I watched today but next step is to practice.  The challenge wasn't too difficult and was able to have a single line return statement.  Saw a solution using key=lambda and need to dig more into that.
