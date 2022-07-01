@@ -1362,3 +1362,13 @@ Learned more about Docker today and did a codewars challenge today.  The challen
 ## Thoughts
 
 Learned about building your own docker image using a Dockerfile, pushing to a private repository, deploying through docker, and persisting data through docker volume.  I need to review what I watched today but next step is to practice.  The challenge wasn't too difficult and was able to have a single line return statement.  Saw a solution using key=lambda and need to dig more into that.
+
+# Day 134 (6/30/2022)
+
+## Docker
+
+Practiced Docker commands.
+
+## Thoughts
+
+Got pretty sidetracked but ran some basic docker commands.  Couldn't get the local host working since I don't have GitLab or a template to practice using mongo and mongo express containers.
