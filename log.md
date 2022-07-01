@@ -1371,4 +1371,4 @@ Practiced Docker commands.
 
 ## Thoughts
 
-Got pretty sidetracked but ran some basic docker commands.  Couldn't get the local host working since I don't have GitLab or a template to practice using mongo and mongo express containers.
+Got pretty sidetracked but ran some basic docker commands.  Couldn't get the local host working since I don't have GitLab or a template to practice using mongo and mongo express containers.  Learned about windows powershell commands.
