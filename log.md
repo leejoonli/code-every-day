@@ -1362,3 +1362,13 @@ Learned more about Docker today and did a codewars challenge today.  The challen
 ## Thoughts
 
 Learned about building your own docker image using a Dockerfile, pushing to a private repository, deploying through docker, and persisting data through docker volume.  I need to review what I watched today but next step is to practice.  The challenge wasn't too difficult and was able to have a single line return statement.  Saw a solution using key=lambda and need to dig more into that.
+
+# Day 134 (7/1/2022)
+
+## Codewars
+
+The challenge was to return a boolean if three integers make up a triangle.  Tried another challenge before which I had a solution but time complexity failed the solution.
+
+## Thoughts
+
+Had to look up the mathematics for determining if three sides make up a triangle.  Pretty simple.  The other challenge I didn't know how to fix the time complexity issue.
