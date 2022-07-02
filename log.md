@@ -1372,3 +1372,13 @@ Practiced Docker commands.
 ## Thoughts
 
 Got pretty sidetracked but ran some basic docker commands.  Couldn't get the local host working since I don't have GitLab or a template to practice using mongo and mongo express containers.  Learned about windows powershell commands.
+
+# Day 135 (7/1/2022)
+
+## Codewars
+
+The challenge was to return a boolean if three integers make up a triangle.  Tried another challenge before which I had a solution but time complexity failed the solution.
+
+## Thoughts
+
+Had to look up the mathematics for determining if three sides make up a triangle.  Pretty simple.  The other challenge I didn't know how to fix the time complexity issue.
