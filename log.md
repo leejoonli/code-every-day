@@ -1392,3 +1392,13 @@ The challenge was to return number of '.' equal to the lengths of each string.
 ## Thoughts
 
 Did not know how to do this in a one line return statement.  Did the brute force method.  Split the string, find the lengths of each string with '.', used the string version of the math operator and then returned a string created by a for loop using the length gotten from the algebra.  Looking at the other solutions, there an eval() method that parses the expression passed and runs python code.  Cool built in method I didn't know about.
+
+# Day 137 (7/5/2022)
+
+## Docker
+
+Practiced Docker.
+
+## Thoughts
+
+Having a tough time learning Docker.  Tried to follow a written tutorial on the Docker docs but local host wouldn't load.  Need to debug and practice more.
