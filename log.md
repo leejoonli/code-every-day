@@ -1402,3 +1402,13 @@ Practiced Docker.
 ## Thoughts
 
 Having a tough time learning Docker.  Tried to follow a written tutorial on the Docker docs but local host wouldn't load.  Need to debug and practice more.
+
+# Day 138 (7/6/2022)
+
+## Docker and Codewars
+
+Tried practicing docker.  Did a codewars challenge.  The challenge was to return the value of a string based off the values the instructions give you.
+
+## Thoughts
+
+Figured out the error is CORS related and not sure how to proceed.  The code challenge was pretty easy.  Could've done a loop and conditionals but decided to create a class and in the class it has a function that returns the value of the string just to practice OOP.
