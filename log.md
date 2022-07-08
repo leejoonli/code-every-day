@@ -1412,3 +1412,13 @@ Tried practicing docker.  Did a codewars challenge.  The challenge was to return
 ## Thoughts
 
 Figured out the error is CORS related and not sure how to proceed.  The code challenge was pretty easy.  Could've done a loop and conditionals but decided to create a class and in the class it has a function that returns the value of the string just to practice OOP.
+
+# Day 139 (7/7/2022)
+
+## Docker and Codewars
+
+Tried practicing docker.  Followed another docker guide from the docs.  The codewars challenge was to return the index of the middle number in the list.
+
+## Thoughts
+
+Moved on to another docker docs guide since I can't figure out the CORS issue.  Figured out an authentication issue that I was having because of a single letter misspelling.  Able to create a container and access local host and pushed to remote repository.  Did a way overcomplicated OOP way of solving the problem.  Forgot that there's a sorted() method which sorts the array so you can sort it, and then return the middle index.
