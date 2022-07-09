@@ -1422,3 +1422,13 @@ Tried practicing docker.  Followed another docker guide from the docs.  The code
 ## Thoughts
 
 Moved on to another docker docs guide since I can't figure out the CORS issue.  Figured out an authentication issue that I was having because of a single letter misspelling.  Able to create a container and access local host and pushed to remote repository.  Did a way overcomplicated OOP way of solving the problem.  Forgot that there's a sorted() method which sorts the array so you can sort it, and then return the middle index.
+
+# Day 140 (7/8/2022)
+
+## Codewars
+
+Did a code challenge today.  Given a list of list of integers return the difference.
+
+## Thoughts
+
+Could've done a simple one line return statement of summing the difference of a loop that uses the lists in the list but decided to create a class that returns the number of the initial passengers and the leaving passengers in the bus prompt.  Then in the function, returned the difference.
