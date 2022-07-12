@@ -1432,3 +1432,13 @@ Did a code challenge today.  Given a list of list of integers return the differe
 ## Thoughts
 
 Could've done a simple one line return statement of summing the difference of a loop that uses the lists in the list but decided to create a class that returns the number of the initial passengers and the leaving passengers in the bus prompt.  Then in the function, returned the difference.
+
+# Day 141 (7/11/2022)
+
+## Docker
+
+Practiced Docker.
+
+## Thoughts
+
+Practiced using a docker volume / database and bind mounts.  Refreshed information on types of volumes.
