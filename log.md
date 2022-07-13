@@ -1442,3 +1442,13 @@ Practiced Docker.
 ## Thoughts
 
 Practiced using a docker volume / database and bind mounts.  Refreshed information on types of volumes.
+
+# Day 142 (7/12/2022)
+
+## Docker
+
+Practiced Docker.
+
+## Thoughts
+
+Practiced with multi container apps and using docker compose.  Get the general idea on how to use it but don't know where to start when containerizing previous projects.
