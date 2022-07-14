@@ -1452,3 +1452,13 @@ Practiced Docker.
 ## Thoughts
 
 Practiced with multi container apps and using docker compose.  Get the general idea on how to use it but don't know where to start when containerizing previous projects.
+
+# Day 143 (7/13/2022)
+
+## Docker
+
+Practiced Docker.
+
+## Thoughts
+
+Practiced docker scan, and multi image layering, image caching, .dockerignore.  Read about multi stage builds (Maven/Tomcat, React).  Tried containerizing GA project 1 but not working.
