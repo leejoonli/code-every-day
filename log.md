@@ -1462,3 +1462,13 @@ Practiced Docker.
 ## Thoughts
 
 Practiced docker scan, and multi image layering, image caching, .dockerignore.  Read about multi stage builds (Maven/Tomcat, React).  Tried containerizing GA project 1 but not working.
+
+# Day 144 (7/14/2022)
+
+## Docker and Codewars
+
+Practiced Docker.  Did a codewars challenge.  The challenge was to find the largest consecutive 5 digit number in a given number.
+
+## Thoughts
+
+Tried to containerize project 1 but still not working.  Not sure how to proceed so I did a codewars challenge instead.  Did some more OOP practice even though the challenge could be done in a single line.  The single line return statement looked more complicated than I thought but I'm satisfied with my answer since it gave me more OOP practice.
