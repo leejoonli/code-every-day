@@ -1472,3 +1472,13 @@ Practiced Docker.  Did a codewars challenge.  The challenge was to find the larg
 ## Thoughts
 
 Tried to containerize project 1 but still not working.  Not sure how to proceed so I did a codewars challenge instead.  Did some more OOP practice even though the challenge could be done in a single line.  The single line return statement looked more complicated than I thought but I'm satisfied with my answer since it gave me more OOP practice.
+
+# Day 145 (7/15/2022)
+
+## Docker and Codewars
+
+Practiced Docker.  Did a codewars challenge.  The challenge was to find how many times a number can be divisible by another number.
+
+## Thoughts
+
+Able to containerize project 1.  Changed the dockerfile to something else I found and it worked.  Also, added a docker-compose.yml file so it's now able to be used with docker-compose.  The challenge was very easy.  Did a basic while loop and had a variable to keep track of how many times the number was divided.  One of the solutions has a log() method from the math library. Don't remember too much math so I didn't know that was a solution you could do.  Probably need to do some more challenging challenges.
