@@ -1482,3 +1482,13 @@ Practiced Docker.  Did a codewars challenge.  The challenge was to find how many
 ## Thoughts
 
 Able to containerize project 1.  Changed the dockerfile to something else I found and it worked.  Also, added a docker-compose.yml file so it's now able to be used with docker-compose.  The challenge was very easy.  Did a basic while loop and had a variable to keep track of how many times the number was divided.  One of the solutions has a log() method from the math library. Don't remember too much math so I didn't know that was a solution you could do.  Probably need to do some more challenging challenges.
+
+# Day 146 (7/18/2022)
+
+## Docker
+
+Practiced Docker.
+
+## Thoughts
+
+Able to containerize project 2.  Working on containerizing project 3.
