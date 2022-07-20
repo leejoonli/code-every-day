@@ -1492,3 +1492,13 @@ Practiced Docker.
 ## Thoughts
 
 Able to containerize project 2.  Working on containerizing project 3.
+
+# Day 147 (7/19/2022)
+
+## Docker and Dropbox Assessment test
+
+Practiced Docker and took an assessment test.
+
+## Thoughts
+
+Able to run a container for project 3 but can't seem to get docker-compose to work.  Turns the daemon black and unable to be used.  Can't find anything online about it.  Bombed the assessment test because I'm inexperienced.  Was able to give an answer for 3/4 questions but the rotating and flipping diagonally of a numerical matrix I did not understand.  And even some of the answers I did give weren't good either.  One didn't meet the time complexity test and the other had bugs and didn't finish all the tests.
