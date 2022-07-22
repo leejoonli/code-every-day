@@ -1512,3 +1512,13 @@ Practiced Docker.
 ## Thoughts
 
 Tried to create a Dockerfile for Django project.  Could not get it to work.
+
+# Day 149 (7/21/2022)
+
+## Dropbox Assessment
+
+Did an assessment test.
+
+## Thoughts
+
+Good practice but I need to get more.  Barely finished the 1st segment.  Used OOP and created classes with methods to finish segment 1.  Also realized I need to think more about how the code works when I write it.  Wish I had more time and I think if I did I would finisht the assessment but alas it was timed.
