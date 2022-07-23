@@ -1522,3 +1522,13 @@ Did an assessment test.
 ## Thoughts
 
 Good practice but I need to get more.  Barely finished the 1st segment.  Used OOP and created classes with methods to finish segment 1.  Also realized I need to think more about how the code works when I write it.  Wish I had more time and I think if I did I would finisht the assessment but alas it was timed.
+
+# Day 150 (7/22/2022)
+
+## Codewars
+
+Did a codewars challenge.  The challenge was to find the minimum perimeter given an area of a rectangle.
+
+## Thoughts
+
+Ok OOP practice but my solution seemed like it didn't meet the execution time limit.  Not sure the exact reason and not sure how to refactor it.
