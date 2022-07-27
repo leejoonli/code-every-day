@@ -1533,7 +1533,7 @@ Did a codewars challenge.  The challenge was to find the minimum perimeter given
 
 Ok OOP practice but my solution seemed like it didn't meet the execution time limit.  Not sure the exact reason and not sure how to refactor it.
 
-# Day 151 (7/23/2022)
+# Day 151 (7/25/2022)
 
 ## Docker
 
@@ -1542,3 +1542,13 @@ Practiced Docker.
 ## Thoughts
 
 Able to get a basic Django docker container running.  Have a general idea of what the Dockerfile and docker-compose.yml files are saying/doing but still don't understand when some of the syntax/lines are necessary.  Also, still don't know how to containerize project 3 backend.
+
+# Day 152 (7/26/2022)
+
+## Docker
+
+Practiced Docker.
+
+## Thoughts
+
+Very slow process on how to use docker with Django and PostgreSQL.  Image can build but container can't run.  Still don't know exactly what lines of code is necessary for container to run.
