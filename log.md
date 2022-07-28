@@ -1552,3 +1552,13 @@ Practiced Docker.
 ## Thoughts
 
 Very slow process on how to use docker with Django and PostgreSQL.  Image can build but container can't run.  Still don't know exactly what lines of code is necessary for container to run.
+
+# Day 153 (7/27/2022)
+
+## C#
+
+Practiced C#.
+
+## Thoughts
+
+Docker wasn't going well so I swapped to writing a console app in C#.  Going back to the battleship one from one of the GA assignments.  Forgot how to write code in C# and had to look things up.  Wondering if I should also learn C/C++.
