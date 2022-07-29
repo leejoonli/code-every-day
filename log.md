@@ -1562,3 +1562,13 @@ Practiced C#.
 ## Thoughts
 
 Docker wasn't going well so I swapped to writing a console app in C#.  Going back to the battleship one from one of the GA assignments.  Forgot how to write code in C# and had to look things up.  Wondering if I should also learn C/C++.
+
+# Day 154 (7/28/2022)
+
+## C#
+
+Practiced C#.
+
+## Thoughts
+
+Finished the GA battleship assignment in C#.  There's a bug that each stat on the alien ship is set to a single random number/double instead of different ones for every alien ship.  Not sure why it's happening or how to fix it.
