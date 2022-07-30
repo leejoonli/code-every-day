@@ -1572,3 +1572,13 @@ Practiced C#.
 ## Thoughts
 
 Finished the GA battleship assignment in C#.  There's a bug that each stat on the alien ship is set to a single random number/double instead of different ones for every alien ship.  Not sure why it's happening or how to fix it.
+
+# Day 155 (7/29/2022)
+
+## Codewars
+
+Did a codewars challenge today.  One was to debug a sum of numbers in an int and the other was to find the minimum number of moves in tower of hanoi depending on the number of disks.
+
+## Thoughts
+
+Redid the bugged solution and was able to get a one line return statement.  Also did a one line return statement for the tower of hanoi as well.  Since I built tower of hanoi I had prior knowledge that there's a mathematical solution to finding the minimum number of moves and was able to do another one line return statement.  Also been practicing in typeracer to get faster but need practice typing code.
