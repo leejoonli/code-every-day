@@ -1582,3 +1582,13 @@ Did a codewars challenge today.  One was to debug a sum of numbers in an int and
 ## Thoughts
 
 Redid the bugged solution and was able to get a one line return statement.  Also did a one line return statement for the tower of hanoi as well.  Since I built tower of hanoi I had prior knowledge that there's a mathematical solution to finding the minimum number of moves and was able to do another one line return statement.  Also been practicing in typeracer to get faster but need practice typing code.
+
+# Day 156 (8/1/2022)
+
+## C#
+
+Practiced C#.
+
+## Thoughts
+
+Converted some sorting algorithm code into C#.  There's no spread operator so had to find a workaround.  Didn't test it either so I'm not sure if it works or not and I don't know how to run C# code in the terminal like with node.
