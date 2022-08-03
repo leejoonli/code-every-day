@@ -1592,3 +1592,13 @@ Practiced C#.
 ## Thoughts
 
 Converted some sorting algorithm code into C#.  There's no spread operator so had to find a workaround.  Didn't test it either so I'm not sure if it works or not and I don't know how to run C# code in the terminal like with node.
+
+# Day 157 (8/2/2022)
+
+## C# and Codewars
+
+Practiced C# and did a codewars challenge.  The challenge was to return the sum of the ascii values for every letter in a string.
+
+## Thoughts
+
+Redid some of the sorting algorithm code to match C#.  Fixed a bug with the space battle c# code.  Turns out that Random is an object and when you create it, it has a lifecycle that is greater than the runtime of the code so it was giving the same value.  Just had to create it once and then pass the object to each method.  The code challenge was very easy once you understood the prompt, it had no directions, just an example, and I was able to get a one line return statement.
