@@ -1602,3 +1602,13 @@ Practiced C# and did a codewars challenge.  The challenge was to return the sum 
 ## Thoughts
 
 Redid some of the sorting algorithm code to match C#.  Fixed a bug with the space battle c# code.  Turns out that Random is an object and when you create it, it has a lifecycle that is greater than the runtime of the code so it was giving the same value.  Just had to create it once and then pass the object to each method.  The code challenge was very easy once you understood the prompt, it had no directions, just an example, and I was able to get a one line return statement.
+
+# Day 158 (8/3/2022)
+
+## C#
+
+Practiced C#.
+
+## Thoughts
+
+Created a calculator console app following the microsoft docs.  Made an initial commit to create a web app using C#.  It's going to be a web version of the calculator console app.
