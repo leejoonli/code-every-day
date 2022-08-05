@@ -1612,3 +1612,13 @@ Practiced C#.
 ## Thoughts
 
 Created a calculator console app following the microsoft docs.  Made an initial commit to create a web app using C#.  It's going to be a web version of the calculator console app.
+
+# Day 159 (8/4/2022)
+
+## C#
+
+Practiced C#.
+
+## Thoughts
+
+Very slow day.  Read that C# is generally not used for front end development but it can do some server side calculations just not sure how to implement that.  Read some basic starter stuff for .NET.  So just translated some data structure stuff into C#.
