@@ -1622,3 +1622,13 @@ Practiced C#.
 ## Thoughts
 
 Very slow day.  Read that C# is generally not used for front end development but it can do some server side calculations just not sure how to implement that.  Read some basic starter stuff for .NET.  So just translated some data structure stuff into C#.
+
+# Day 160 (8/5/2022)
+
+## Random things
+
+Read a little about .NET, did a codewars challenge, watched some stuff about recursion.
+
+## Thoughts
+
+Need to focus harder.  Did two codewars challenges but only finished one.  The first one was easy, just returning the min value or the index of min value based off an indicator input.  Able to get a one line return statement.  The other challenge was to return a string of numbers depending on if the string has duplicate letters.  For some reason, I cannot think of a solution right now.  It feels like my brain isn't working for some reason.
