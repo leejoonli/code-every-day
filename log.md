@@ -1632,3 +1632,13 @@ Read a little about .NET, did a codewars challenge, watched some stuff about rec
 ## Thoughts
 
 Need to focus harder.  Did two codewars challenges but only finished one.  The first one was easy, just returning the min value or the index of min value based off an indicator input.  Able to get a one line return statement.  The other challenge was to return a string of numbers depending on if the string has duplicate letters.  For some reason, I cannot think of a solution right now.  It feels like my brain isn't working for some reason.
+
+# Day 161 (8/8/2022)
+
+## Assessment test and Codewars
+
+Did an assessment test for US Senate and a codewars challenge.  The challenge was to return the last element in a list.
+
+## Thoughts
+
+The assessment test prompts weren't that difficult.  It was assertions in Python, an API call/tests, and Django/Python serializers and views.  The API call prompt might have been bugged because my new Error() was being read as null instead of the message I put in.  The codewars challenge was actually easy but I still have to look up how to do Python syntax.
