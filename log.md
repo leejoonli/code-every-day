@@ -1635,10 +1635,10 @@ Need to focus harder.  Did two codewars challenges but only finished one.  The f
 
 # Day 161 (8/8/2022)
 
-## Assessment test and Codewars
+## Assessment test, Codewars, C#
 
-Did an assessment test for US Senate and a codewars challenge.  The challenge was to return the last element in a list.
+Did an assessment test for US Senate and a codewars challenge.  The challenge was to return the last element in a list.  Did some C# coding practice.
 
 ## Thoughts
 
-The assessment test prompts weren't that difficult.  It was assertions in Python, an API call/tests, and Django/Python serializers and views.  The API call prompt might have been bugged because my new Error() was being read as null instead of the message I put in.  The codewars challenge was actually easy but I still have to look up how to do Python syntax.
+The assessment test prompts weren't that difficult.  It was assertions in Python, an API call/tests, and Django/Python serializers and views.  The API call prompt might have been bugged because my new Error() was being read as null instead of the message I put in.  The codewars challenge was actually easy but I still have to look up how to do Python syntax.  Finished writing linked list methods in C#.  Couldn't get the sort method to work but all the other methods do.  It's pretty cool writing code in C#.
