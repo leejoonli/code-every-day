@@ -1642,3 +1642,13 @@ Did an assessment test for US Senate and a codewars challenge.  The challenge wa
 ## Thoughts
 
 The assessment test prompts weren't that difficult.  It was assertions in Python, an API call/tests, and Django/Python serializers and views.  The API call prompt might have been bugged because my new Error() was being read as null instead of the message I put in.  The codewars challenge was actually easy but I still have to look up how to do Python syntax.  Finished writing linked list methods in C#.  Couldn't get the sort method to work but all the other methods do.  It's pretty cool writing code in C#.
+
+# Day 162 (8/9/2022)
+
+## C#
+
+Did random reading and initial commit for restarting calculator app.
+
+## Thoughts
+
+This will not be a web application but rather a form application using Visual Studio's window form app template.  Will need to fiddle around with how things will interact with each other and to see if it can be deployed but one step at a time.
