@@ -1652,3 +1652,13 @@ Did random reading and initial commit for restarting calculator app.
 ## Thoughts
 
 This will not be a web application but rather a form application using Visual Studio's window form app template.  Will need to fiddle around with how things will interact with each other and to see if it can be deployed but one step at a time.
+
+# Day 163 (8/10/2022)
+
+## C#
+
+Added stuff to calculator app.
+
+## Thoughts
+
+Having trouble with the logic.  Added the base amount of buttons for numbers and operations.
