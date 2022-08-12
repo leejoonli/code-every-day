@@ -1662,3 +1662,13 @@ Added stuff to calculator app.
 ## Thoughts
 
 Having trouble with the logic.  Added the base amount of buttons for numbers and operations.
+
+# Day 164 (8/11/2022)
+
+## Codewars
+
+Did a codewars challenge today.  The challenge was to return a string based off of the array of chars in the input array.
+
+## Thoughts
+
+Don't know why I had trouble with this.  Tried to do two for loops but my mind had trouble thinking of something.  Ended up doing a while loop and a for loop.  Had an array of strings that I joined and returned the result.  Probably need more critical thinking exercises.
