@@ -1672,3 +1672,13 @@ Did a codewars challenge today.  The challenge was to return a string based off 
 ## Thoughts
 
 Don't know why I had trouble with this.  Tried to do two for loops but my mind had trouble thinking of something.  Ended up doing a while loop and a for loop.  Had an array of strings that I joined and returned the result.  Probably need more critical thinking exercises.
+
+# Day 165 (8/12/2022)
+
+## C#, Codewars
+
+Added to the calculator app.  Did a codewars challenge today.  The challenge was to return the area of a triangle inside a rectangle/square.
+
+## Thoughts
+
+Finally made progress on the calculator app.  Able to get basic calculator functionality but still needs a little more error checking.  Will add more features later.  The code challenge was very easy because the triangle in the rectangle/square is set based off the diagonals of the encompassing rectangle/square.  All I needed to do was find the formula for the area of a triangle and then divide the height of the rectangle/square by 2 and plug it in to the formula.
