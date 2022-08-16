@@ -1682,3 +1682,13 @@ Added to the calculator app.  Did a codewars challenge today.  The challenge was
 ## Thoughts
 
 Finally made progress on the calculator app.  Able to get basic calculator functionality but still needs a little more error checking.  Will add more features later.  The code challenge was very easy because the triangle in the rectangle/square is set based off the diagonals of the encompassing rectangle/square.  All I needed to do was find the formula for the area of a triangle and then divide the height of the rectangle/square by 2 and plug it in to the formula.
+
+# Day 166 (8/15/2022)
+
+## C#
+
+Worked on the calculator app.
+
+## Thoughts
+
+Fixed a lot of bugs in the caluclator app.  Added some functionality but now it's causing some bugs and not sure how to fix.  Will continue to work on this application.
