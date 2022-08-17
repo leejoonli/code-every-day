@@ -1692,3 +1692,13 @@ Worked on the calculator app.
 ## Thoughts
 
 Fixed a lot of bugs in the caluclator app.  Added some functionality but now it's causing some bugs and not sure how to fix.  Will continue to work on this application.
+
+# Day 167 (8/16/2022)
+
+## C#
+
+Worked on the calculator app.
+
+## Thoughts
+
+Added some features on the calculator app.  Added a divde into 1, square, square root, and fixed more bugs.
