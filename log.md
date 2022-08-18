@@ -1702,3 +1702,13 @@ Worked on the calculator app.
 ## Thoughts
 
 Added some features on the calculator app.  Added a divde into 1, square, square root, and fixed more bugs.
+
+# Day 168 (8/17/2022)
+
+## C#
+
+Worked on the calculator app.
+
+## Thoughts
+
+Slow progress on the application.  Fixed some bugs and adjusted code logic.  Wanted to add a delete button but realized that I need to then change how the display works.
