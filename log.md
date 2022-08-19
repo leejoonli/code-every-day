@@ -1712,3 +1712,13 @@ Worked on the calculator app.
 ## Thoughts
 
 Slow progress on the application.  Fixed some bugs and adjusted code logic.  Wanted to add a delete button but realized that I need to then change how the display works.
+
+# Day 169 (8/18/2022)
+
+## C#
+
+Worked on the calculator app.
+
+## Thoughts
+
+Redid the display and operand/operand display logic.  Added a backspace feature.  Redid the visual layout to make it look better.  Achieved basically the same functionality as a standard calculator app on a computer.
