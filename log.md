@@ -1722,3 +1722,13 @@ Worked on the calculator app.
 ## Thoughts
 
 Redid the display and operand/operand display logic.  Added a backspace feature.  Redid the visual layout to make it look better.  Achieved basically the same functionality as a standard calculator app on a computer.
+
+# Day 170 (8/19/2022)
+
+## Calculator app deploy and Codewars
+
+Worked on the calculator app.  Did a codewars challenge.  The challenge was to replace instances of a char with another char in a string and return it.
+
+## Thoughts
+
+Published the application and now is a .exe file.  Once the repository is cloned, the user can navigate to the path listed in the README.md and will be able to open the application.  The codewars challenge was really easy but I didn't do it the Python way.  The one line return statement used maketrans().  Didn't know that method existed.
