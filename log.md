@@ -1732,3 +1732,13 @@ Worked on the calculator app.  Did a codewars challenge.  The challenge was to r
 ## Thoughts
 
 Published the application and now is a .exe file.  Once the repository is cloned, the user can navigate to the path listed in the README.md and will be able to open the application.  The codewars challenge was really easy but I didn't do it the Python way.  The one line return statement used maketrans().  Didn't know that method existed.
+
+# Day 171 (8/22/2022)
+
+## Codewars
+
+Did a codewars challenge.  The challenge was to create a string that prints out a square with height and width the same as the input integer.
+
+## Thoughts
+
+Did a simple nested for loop and was able to solve the code challenge.  There were other interesting solutions like using .joing() and another solution where you can use ('i' * n) and it will create a string with repeating char/string just like a for loop.
