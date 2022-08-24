@@ -1743,7 +1743,7 @@ Read some Docker and Microsoft docs and did a basic review.  Did a codewars chal
 
 The documentation that I read was for using Docker with MS applications but it was mainly review which seems like a good sign.  For the code challenge, did a simple nested for loop and was able to solve the code challenge.  There were other interesting solutions like using .joing() and another solution where you can use ('i' * n) and it will create a string with repeating char/string just like a for loop.
 
-# Day 171 (8/22/2022)
+# Day 172 (8/23/2022)
 
 ## Codewars
 
@@ -1752,3 +1752,13 @@ Did a codewars challenge today.  The challenge was to return the sum of a list b
 ## Thoughts
 
 Able to do a single line return statement.  Used the sum() method and did a for loop in a list with a conditional that determines if the element in a list is a duplicate.
+
+# Day 173 (8/24/2022)
+
+## Codewars
+
+Did a codewars challenge today.  The challenge was to return a number based on a comparison of two exponents.
+
+## Thoughts
+
+Ran into execution timeouts because of the very large integer inputs/exponents.  Used a log() method and it computed way faster.  Looks like I need to go back and learn math.
