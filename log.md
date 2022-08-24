@@ -1735,10 +1735,20 @@ Published the application and now is a .exe file.  Once the repository is cloned
 
 # Day 171 (8/22/2022)
 
-## Codewars
+## Codewars and Docker review
 
-Did a codewars challenge.  The challenge was to create a string that prints out a square with height and width the same as the input integer.
+Read some Docker and Microsoft docs and did a basic review.  Did a codewars challenge.  The challenge was to create a string that prints out a square with height and width the same as the input integer.
 
 ## Thoughts
 
-Did a simple nested for loop and was able to solve the code challenge.  There were other interesting solutions like using .joing() and another solution where you can use ('i' * n) and it will create a string with repeating char/string just like a for loop.
+The documentation that I read was for using Docker with MS applications but it was mainly review which seems like a good sign.  For the code challenge, did a simple nested for loop and was able to solve the code challenge.  There were other interesting solutions like using .joing() and another solution where you can use ('i' * n) and it will create a string with repeating char/string just like a for loop.
+
+# Day 171 (8/22/2022)
+
+## Codewars
+
+Did a codewars challenge today.  The challenge was to return the sum of a list but ignore duplicates.
+
+## Thoughts
+
+Able to do a single line return statement.  Used the sum() method and did a for loop in a list with a conditional that determines if the element in a list is a duplicate.
