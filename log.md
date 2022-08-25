@@ -1762,3 +1762,13 @@ Did a codewars challenge today.  The challenge was to return a number based on a
 ## Thoughts
 
 Ran into execution timeouts because of the very large integer inputs/exponents.  Used a log() method and it computed way faster.  Looks like I need to go back and learn math.
+
+# Day 174 (8/25/2022)
+
+## Codewars
+
+Did a codewars challenge today.  The challenge was to return the unique number in a list.
+
+## Thoughts
+
+This was another challenge that had a runtime limit because it had large lists.  Turned the initial list input as a set and did a conditional to return the proper number.  Could've done it better but figured out a jenk way of doing it.
