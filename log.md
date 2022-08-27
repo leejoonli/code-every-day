@@ -1772,3 +1772,13 @@ Did a codewars challenge today.  The challenge was to return the unique number i
 ## Thoughts
 
 This was another challenge that had a runtime limit because it had large lists.  Turned the initial list input as a set and did a conditional to return the proper number.  Could've done it better but figured out a jenk way of doing it.
+
+# Day 175 (8/26/2022)
+
+## Codewars
+
+Did a codewars challenge today.  The challenge was to return the largest integer between a range that's divisible by one of the input integers.
+
+## Thoughts
+
+Did a basic for loop and conditional.  There're solutions that are 1-2 lines long and I didn't know that there's basically a formula to solve this challenge.
