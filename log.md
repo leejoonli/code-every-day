@@ -1792,3 +1792,13 @@ Started to learn about Kubernetes.
 ## Thoughts
 
 Learned about the use of Kubernetes and why it is used, basic structure of kubernetes, and commands from the kubectl command list.  Kubernetes is a container orchestration tool which emphasizes the usage of containers and microservices over monolith design.  It is made up of master nodes and worker nodes.  The master node contains the important processes that enable kubernetes like the api server(entrypoint), scheduler(where to put pods), controller manager(manage the status of nodes), and the etcd(key value storage/database backup for cluster).  The worker nodes contain pods which are abstractions over containers, each pod has a service so the pods can communicate with each other, container runtime which run the containers(docker) and the worker node commands(kubelet), ConfigMap(external configuration of application), and Secret(used to store secret data/environmental variables).  Minikube is a software that "containerizes" the master and worker node in one node to run it on a machine.  Kubectl is the command line commands that you can run on the terminal to execute the master node processes.  Also, went over the CRUD functionality of kubectl and learned about deployments, pods, replicasets, logs, and editing deployment yaml files.
+
+# Day 177 (8/30/2022)
+
+## Kubernetes
+
+Continue to learn about Kubernetes.
+
+## Thoughts
+
+Practiced building a mongo and mongo-express app using Kubernetes.  Worked through the yaml files to create deployments of a mongo application.  Ran into an authorization issue while adding mongo-express.  Currently cannot solve the issue.
