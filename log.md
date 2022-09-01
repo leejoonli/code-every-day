@@ -1802,3 +1802,13 @@ Continue to learn about Kubernetes.
 ## Thoughts
 
 Practiced building a mongo and mongo-express app using Kubernetes.  Worked through the yaml files to create deployments of a mongo application.  Ran into an authorization issue while adding mongo-express.  Currently cannot solve the issue.
+
+# Day 178 (8/31/2022)
+
+## Kubernetes
+
+Continue to learn about Kubernetes.
+
+## Thoughts
+
+Finished the video walkthrough for Kubernetes demo.  There's A LOT of information that I need to review.  But the mongo and mongo-express app that wasn't working yesterday started working without any kind of intervention and was able to start the service.  It seems like a lot of Kubernetes is breaking large applications into smaller pieces and having those pieces be able to communicate with each other.  Kubernetes doesn't inately handle stateful data so the user needs to create a persistent volume (which is a similar name that Docker has) and then attach the volume to the pods.  And as the application contains more services, it seems like it's best practice to try to keep everything separate to avoid any kind of mixups.  There's also a lot of information on using ports and IP addresses, whether it's from an external service like Ingress or an internal service.  Still lots to learn but I'm willing to keep diving in.
