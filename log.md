@@ -1822,3 +1822,13 @@ Reviewed some Kubernetes and started to relearn C.
 ## Thoughts
 
 Worked on volume yaml files in Kubernetes and started to relearn C.  Started using VIM and will eventually get around to learning the tool later but decided to continue learning C using Code Block.  Much easier IDE to work with.
+
+# Day 180 (9/2/2022)
+
+## Codewars
+
+Did a codewars challenge today.  The challenge was to compare "version numbers" and see which one is most up to date.
+
+## Thoughts
+
+Solved it by creating a class with methods to check for any edge cases like array lengths and converting to integers.  Then created a method that looped through two arrays that contain the version numbers and then returned a boolean.  It was overly complicated but it gave me some decent practice with OOP.  Did not realize that you can literally compare two arrays using comparison operators and it will compare every value like a loop does.
