@@ -1812,3 +1812,13 @@ Continue to learn about Kubernetes.
 ## Thoughts
 
 Finished the video walkthrough for Kubernetes demo.  There's A LOT of information that I need to review.  But the mongo and mongo-express app that wasn't working yesterday started working without any kind of intervention and was able to start the service.  It seems like a lot of Kubernetes is breaking large applications into smaller pieces and having those pieces be able to communicate with each other.  Kubernetes doesn't inately handle stateful data so the user needs to create a persistent volume (which is a similar name that Docker has) and then attach the volume to the pods.  And as the application contains more services, it seems like it's best practice to try to keep everything separate to avoid any kind of mixups.  There's also a lot of information on using ports and IP addresses, whether it's from an external service like Ingress or an internal service.  Still lots to learn but I'm willing to keep diving in.
+
+# Day 179 (9/1/2022)
+
+## Kubernetes and C
+
+Reviewed some Kubernetes and started to relearn C.
+
+## Thoughts
+
+Worked on volume yaml files in Kubernetes and started to relearn C.  Started using VIM and will eventually get around to learning the tool later but decided to continue learning C using Code Block.  Much easier IDE to work with.
