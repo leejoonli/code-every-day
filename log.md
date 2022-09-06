@@ -1832,3 +1832,13 @@ Did a codewars challenge today.  The challenge was to compare "version numbers" 
 ## Thoughts
 
 Solved it by creating a class with methods to check for any edge cases like array lengths and converting to integers.  Then created a method that looped through two arrays that contain the version numbers and then returned a boolean.  It was overly complicated but it gave me some decent practice with OOP.  Did not realize that you can literally compare two arrays using comparison operators and it will compare every value like a loop does.
+
+# Day 181 (9/5/2022)
+
+## C
+
+Continued learning about C.
+
+## Thoughts
+
+Pretty much all review from what I already knew to it seems like a good sign.  The things I need more refresher on is string manipulation, pointers, and other more advanced topics.  Had a little trouble with using scanf() and fgets() which means I need more practice using those methods.
