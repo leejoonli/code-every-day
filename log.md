@@ -1842,3 +1842,13 @@ Continued learning about C.
 ## Thoughts
 
 Pretty much all review from what I already knew to it seems like a good sign.  The things I need more refresher on is string manipulation, pointers, and other more advanced topics.  Had a little trouble with using scanf() and fgets() which means I need more practice using those methods.
+
+# Day 182 (9/7/2022)
+
+## Pointers and codewars
+
+Did a refresher on pointers and did a codewars challenge.  The challenge was to return a list of the input string but with a capitalized letter starting from the beginning of the string.
+
+## Thoughts
+
+Pointers seems confusing but it seems like a thing that you just get better at the more you're exposed to it.  For the codewars challenge, just did a basic for loop and then had to look up how to capitalize the nth letter but also keep the original string so I found a solution on stack overflow.
