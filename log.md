@@ -1852,3 +1852,13 @@ Did a refresher on pointers and did a codewars challenge.  The challenge was to 
 ## Thoughts
 
 Pointers seems confusing but it seems like a thing that you just get better at the more you're exposed to it.  For the codewars challenge, just did a basic for loop and then had to look up how to capitalize the nth letter but also keep the original string so I found a solution on stack overflow.
+
+# Day 183 (9/8/2022)
+
+## Pointers
+
+Learned about pointer arithmetic, pointers to pointers, and function call by reference/value.
+
+## Thoughts
+
+Did not realize you can use arithmetic on pointers since they were addressses instead of integer values.  The arithmetic uses bytes instead of int values.  Knew pointers to pointers existed but didn't have too much experience with it.  Now it's been more de-mystified so I'm starting to feel more comfortable with pointers.  And finally, I didn't realize in C that you cannot pass variables to functions and have it reference the value of that variable (example of call by value) and instead you need to pass a pointer to said variable (call by reference).
