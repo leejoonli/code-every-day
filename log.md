@@ -1862,3 +1862,13 @@ Learned about pointer arithmetic, pointers to pointers, and function call by ref
 ## Thoughts
 
 Did not realize you can use arithmetic on pointers since they were addressses instead of integer values.  The arithmetic uses bytes instead of int values.  Knew pointers to pointers existed but didn't have too much experience with it.  Now it's been more de-mystified so I'm starting to feel more comfortable with pointers.  And finally, I didn't realize in C that you cannot pass variables to functions and have it reference the value of that variable (example of call by value) and instead you need to pass a pointer to said variable (call by reference).
+
+# Day 184 (9/9/2022)
+
+## Pointers and Codewars
+
+Messed around with pointers in C.  Did two code pretty easy code challenges.  One was to return the sum of the sum of two arrays.  The other was to return an array with values that correspond with a string input.
+
+## Thoughts
+
+Calling by reference in C seems like way more work than in other programming languages.   The code challenges were pretty easy at least.  Made use of the sum() method and did a basic for loop with conditionals.  Overall, very small progress.
