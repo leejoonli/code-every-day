@@ -1872,3 +1872,13 @@ Messed around with pointers in C.  Did two code pretty easy code challenges.  On
 ## Thoughts
 
 Calling by reference in C seems like way more work than in other programming languages.   The code challenges were pretty easy at least.  Made use of the sum() method and did a basic for loop with conditionals.  Overall, very small progress.
+
+# Day 185 (9/12/2022)
+
+## Pointers
+
+Learning more about pointers.
+
+## Thoughts
+
+Learned about pointers and arrays, pointers as function arguments, and pointers with character arrays(strings).  It seems like with pointers and arrays, there are more lenient options, and an example would be that passing an array as a function argument always is by reference and the compiler creates a pointer variable to the beginning of the array.  Character arrays/string manipulation includes way more steps than in JS or any modern programming language but I'm getting more used to pointers and C syntax and behavior.
