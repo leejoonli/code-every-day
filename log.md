@@ -1882,3 +1882,13 @@ Learning more about pointers.
 ## Thoughts
 
 Learned about pointers and arrays, pointers as function arguments, and pointers with character arrays(strings).  It seems like with pointers and arrays, there are more lenient options, and an example would be that passing an array as a function argument always is by reference and the compiler creates a pointer variable to the beginning of the array.  Character arrays/string manipulation includes way more steps than in JS or any modern programming language but I'm getting more used to pointers and C syntax and behavior.
+
+# Day 186 (9/13/2022)
+
+## Pointers
+
+Learning more about pointers.
+
+## Thoughts
+
+Learned about pointers and multi-dimensional arrays.  If the arrays go past 2d then I need to think more.  Going to need some more practice with that.  Learned about malloc, calloc, realloc, and free.  malloc is memory allocation, calloc seems like malloc but different syntax, realloc is reallocating memory, and free is freeing up the allocated memory in the heap.
