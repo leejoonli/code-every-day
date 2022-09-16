@@ -1892,3 +1892,13 @@ Learning more about pointers.
 ## Thoughts
 
 Learned about pointers and multi-dimensional arrays.  If the arrays go past 2d then I need to think more.  Going to need some more practice with that.  Learned about malloc, calloc, realloc, and free.  malloc is memory allocation, calloc seems like malloc but different syntax, realloc is reallocating memory, and free is freeing up the allocated memory in the heap.
+
+# Day 187 (9/15/2022)
+
+## Pointers
+
+Learning more about pointers.
+
+## Thoughts
+
+Learned about function pointers and passing function pointers to functions as arguments.  Also learned more about how memory in C works pertaining to allocated memory in the stack vs heap.  For example, if you call a function from main, that function will have a designated space for memory for variables.  But as soon as that function ends, that memory is freed meaning that you cannot return a value down the call stack, only upwards.
