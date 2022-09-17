@@ -1902,3 +1902,13 @@ Learning more about pointers.
 ## Thoughts
 
 Learned about function pointers and passing function pointers to functions as arguments.  Also learned more about how memory in C works pertaining to allocated memory in the stack vs heap.  For example, if you call a function from main, that function will have a designated space for memory for variables.  But as soon as that function ends, that memory is freed meaning that you cannot return a value down the call stack, only upwards.
+
+# Day 188 (9/16/2022)
+
+## Pointers
+
+Finished video on pointers.
+
+## Thoughts
+
+Learned about memory leak when using pointers.  The main emphasis was to free the memory allocated when using malloc, calloc, or realloc because those methods reserve memory in the heap and not the stack.  And if that memory isn't freed then that space in memory will still be allocated and will continue to pile if the same function is repeated called and this would lead to a "memory leak".  Main point is when you allocate memory, free up the space after you're done using it.
