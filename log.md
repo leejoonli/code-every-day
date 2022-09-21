@@ -1912,3 +1912,13 @@ Finished video on pointers.
 ## Thoughts
 
 Learned about memory leak when using pointers.  The main emphasis was to free the memory allocated when using malloc, calloc, or realloc because those methods reserve memory in the heap and not the stack.  And if that memory isn't freed then that space in memory will still be allocated and will continue to pile if the same function is repeated called and this would lead to a "memory leak".  Main point is when you allocate memory, free up the space after you're done using it.
+
+# Day 189 (9/20/2022)
+
+## Codewars
+
+Did a codewars challenge today.  The challenge was to determine if two int inputs are 1 odd and 1 even.
+
+## Thoughts
+
+Wasn't sure what to do today so just did a codewars challenge.  If one int is odd and the other is even the the addition of those is always odd.  So I did an expression return and used the modulo operator.
