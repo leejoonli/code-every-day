@@ -1922,3 +1922,13 @@ Did a codewars challenge today.  The challenge was to determine if two int input
 ## Thoughts
 
 Wasn't sure what to do today so just did a codewars challenge.  If one int is odd and the other is even the the addition of those is always odd.  So I did an expression return and used the modulo operator.
+
+# Day 190 (9/21/2022)
+
+## Codewars
+
+Did a codewars challenge today.  The challenge was to return the sum of elements in the input in C.
+
+## Thoughts
+
+Learned the triple dots(...) in the function parameter is for variadic functions.  Had to use <stdarg.h> library to use methods to be able to iterate through the elements in the parameter(...).
