@@ -1932,3 +1932,13 @@ Did a codewars challenge today.  The challenge was to return the sum of elements
 ## Thoughts
 
 Learned the triple dots(...) in the function parameter is for variadic functions.  Had to use <stdarg.h> library to use methods to be able to iterate through the elements in the parameter(...).
+
+# Day 191 (9/22/2022)
+
+## GitHub Actions
+
+Refresher on DevOps and learned about GitHub actions.
+
+## Thoughts
+
+It seems like GitHub actions is a very convenient tool to use for CI/CD or DevOps in general.  It follows the YAML format, uses different syntax and keywords than other tools like Docker or Kubernetes, can also use incorporate external tools like Docker, and it can be implemented through any GitHub repository.  And through GitHub actions, you can create a pipeline that automates a lot of tedious management.
