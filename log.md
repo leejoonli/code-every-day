@@ -1942,3 +1942,13 @@ Refresher on DevOps and learned about GitHub actions.
 ## Thoughts
 
 It seems like GitHub actions is a very convenient tool to use for CI/CD or DevOps in general.  It follows the YAML format, uses different syntax and keywords than other tools like Docker or Kubernetes, can also use incorporate external tools like Docker, and it can be implemented through any GitHub repository.  And through GitHub actions, you can create a pipeline that automates a lot of tedious management.
+
+# Day 192 (9/23/2022)
+
+## GitHub Actions
+
+Practiced GitHub actions.
+
+## Thoughts
+
+Able to get one of my GA projects working with GitHub Actions.  The others probably had version match issues, and the django projects had issues with the Dockerfile using a Pipfile instead of requirements.txt so I wasn't able to get those to work.
