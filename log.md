@@ -1952,3 +1952,13 @@ Practiced GitHub actions.
 ## Thoughts
 
 Able to get one of my GA projects working with GitHub Actions.  The others probably had version match issues, and the django projects had issues with the Dockerfile using a Pipfile instead of requirements.txt so I wasn't able to get those to work.
+
+# Day 193 (9/26/2022)
+
+## Terraform
+
+Learned about Terraform.
+
+## Thoughts
+
+Learned that terraform is an infrastructure as code service (servers, users, authentication -> all automated).  At least the beginning makes it seem like the process of writing terraform code is pretty smooth but could have complications depending on what provider you use and what credentials and setup you make.  There also seems to be another infrastructure as code service called Ansible but the main difference is that Ansible is better for configuring infrastructure while Terraform is better for making insfrastructure.  Very similar but do provide different benefits.  And it sounds like both are sometimes used to offset the others cons.
