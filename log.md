@@ -1962,3 +1962,13 @@ Learned about Terraform.
 ## Thoughts
 
 Learned that terraform is an infrastructure as code service (servers, users, authentication -> all automated).  At least the beginning makes it seem like the process of writing terraform code is pretty smooth but could have complications depending on what provider you use and what credentials and setup you make.  There also seems to be another infrastructure as code service called Ansible but the main difference is that Ansible is better for configuring infrastructure while Terraform is better for making insfrastructure.  Very similar but do provide different benefits.  And it sounds like both are sometimes used to offset the others cons.
+
+# Day 194 (9/27/2022)
+
+## Terraform
+
+Practiced Terraform.
+
+## Thoughts
+
+Running into a lot of errors concerning aws config and credentials files.  There are different ways to set the access key id and secret access key but I wanted to try setting those the preferred way.  It seems like the most common way of setting this up is through shared config and credential files but I think I'm missing something because I'm running into an error when I use `terraform plan`.  It says it can't find the region set in the config file.  And as I was going through the aws documentation, it looks like I might have to install the aws cli.
