@@ -1972,3 +1972,13 @@ Practiced Terraform.
 ## Thoughts
 
 Running into a lot of errors concerning aws config and credentials files.  There are different ways to set the access key id and secret access key but I wanted to try setting those the preferred way.  It seems like the most common way of setting this up is through shared config and credential files but I think I'm missing something because I'm running into an error when I use `terraform plan`.  It says it can't find the region set in the config file.  And as I was going through the aws documentation, it looks like I might have to install the aws cli.
+
+# Day 195 (9/28/2022)
+
+## Terraform
+
+Practiced Terraform.
+
+## Thoughts
+
+Got through the error from yesterday.  Was able to create environmental variables instead of shared config/credentials.  Want to try succeeding in the latter option but I'm running into some kind of permissions error on powershell which may be avoided using cmd or some command.  Will look into that later.  Was able to create an instance, vpc, and a subnet using the terraform command.  Will continue practicing.
