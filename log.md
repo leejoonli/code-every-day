@@ -1982,3 +1982,13 @@ Practiced Terraform.
 ## Thoughts
 
 Got through the error from yesterday.  Was able to create environmental variables instead of shared config/credentials.  Want to try succeeding in the latter option but I'm running into some kind of permissions error on powershell which may be avoided using cmd or some command.  Will look into that later.  Was able to create an instance, vpc, and a subnet using the terraform command.  Will continue practicing.
+
+# Day 196 (9/29/2022)
+
+## Terraform
+
+Practiced Terraform.
+
+## Thoughts
+
+Was able to create a basic aws cloud service network.  Used the terraform provider, vpc, internet gateway, route table, subnet, route table association, security group, network interface, elastic ip, and instance.  It deployed but I wasn't able to connect.  Possibly due to the last bit of code using the user_data value which runs commands.  Or it could be that I need to install putty and connect through the virtual terminal.
