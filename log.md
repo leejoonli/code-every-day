@@ -1992,3 +1992,13 @@ Practiced Terraform.
 ## Thoughts
 
 Was able to create a basic aws cloud service network.  Used the terraform provider, vpc, internet gateway, route table, subnet, route table association, security group, network interface, elastic ip, and instance.  It deployed but I wasn't able to connect.  Possibly due to the last bit of code using the user_data value which runs commands.  Or it could be that I need to install putty and connect through the virtual terminal.
+
+# Day 197 (10/3/2022)
+
+## Revature Assessment
+
+Did a preliminary assessment test.
+
+## Thoughts
+
+Kind of an awkward assessment.  The first part was a video response and it was a bit uncomfortable talking to no one.  The other parts were just multiple choice and the topics were basically things covered in GA.
