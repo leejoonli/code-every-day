@@ -2002,3 +2002,13 @@ Did a preliminary assessment test.
 ## Thoughts
 
 Kind of an awkward assessment.  The first part was a video response and it was a bit uncomfortable talking to no one.  The other parts were just multiple choice and the topics were basically things covered in GA.
+
+# Day 198 (10/4/2022)
+
+## C Practice
+
+Practiced in C.
+
+## Thoughts
+
+Doing the cypher exercise from the CS50 coursework.  Having a lot of trouble understanding how to get a string input from the user and looping through it for some reason.  Able to get the string but can't loop over it and not sure why.
