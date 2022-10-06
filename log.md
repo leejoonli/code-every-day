@@ -2012,3 +2012,13 @@ Practiced in C.
 ## Thoughts
 
 Doing the cypher exercise from the CS50 coursework.  Having a lot of trouble understanding how to get a string input from the user and looping through it for some reason.  Able to get the string but can't loop over it and not sure why.
+
+# Day 199 (10/5/2022)
+
+## C Practice
+
+Practiced in C.
+
+## Thoughts
+
+Had a lot of trouble today working with strings in C.  My conditional wasn't working no matter what I tried and then I remembered that each string (char array) has a null terminating character which was throwing off my logic.  Need more practice.
