@@ -2022,3 +2022,13 @@ Practiced in C.
 ## Thoughts
 
 Had a lot of trouble today working with strings in C.  My conditional wasn't working no matter what I tried and then I remembered that each string (char array) has a null terminating character which was throwing off my logic.  Need more practice.
+
+# Day 200 (10/6/2022)
+
+## C Practice
+
+Practiced in C.
+
+## Thoughts
+
+Had to revise my entire cypher solution.  Instead of trying to use two fgets, I used one and had a hard coded cypher (adjusting the alphabet by one) which then printed out the plain text and then the cypher text.  Could possibly use fgets but instead of trying to use two, use one and then combine the cypher and the plain text into one variable.
