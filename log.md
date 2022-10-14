@@ -2042,3 +2042,13 @@ Practiced in C.
 ## Thoughts
 
 Completed the mario problem from the CS50 coursework and then started learning data structures in C.  Having trouble using the pointers to the struct which is currently on an infinite loop.  Will continue later.
+
+# Day 202 (10/13/2022)
+
+## C Practice
+
+Practiced in C.
+
+## Thoughts
+
+Added new functions to linked list in C.  Still having trouble with using walker as a pointer to traverse the list.
