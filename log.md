@@ -2052,3 +2052,13 @@ Practiced in C.
 ## Thoughts
 
 Added new functions to linked list in C.  Still having trouble with using walker as a pointer to traverse the list.
+
+# Day 203 (10/14/2022)
+
+## C Practice
+
+Practiced in C.
+
+## Thoughts
+
+Fixed the bug on insert at last function.  Added delete first node and delete at specified node.  Will work more on this and other data types in C.
