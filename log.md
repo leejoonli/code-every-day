@@ -2062,3 +2062,13 @@ Practiced in C.
 ## Thoughts
 
 Fixed the bug on insert at last function.  Added delete first node and delete at specified node.  Will work more on this and other data types in C.
+
+# Day 204 (10/18/2022)
+
+## C Practice
+
+Practiced in C.
+
+## Thoughts
+
+Added find and sort function to linked list in C.  Basically the same thing as other languages except it's more explicit since C uses pointers and you need pointers for each data type in the struct.
