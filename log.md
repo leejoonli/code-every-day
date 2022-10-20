@@ -2072,3 +2072,13 @@ Practiced in C.
 ## Thoughts
 
 Added find and sort function to linked list in C.  Basically the same thing as other languages except it's more explicit since C uses pointers and you need pointers for each data type in the struct.
+
+# Day 205 (10/19/2022)
+
+## C Practice
+
+Practiced in C.
+
+## Thoughts
+
+Added stack data structure and functions to the C practice repository.
