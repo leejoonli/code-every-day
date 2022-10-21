@@ -2092,3 +2092,13 @@ Practiced in C.
 ## Thoughts
 
 Completed queue data structure functions.  From the source that I was reading, it used the modulo operator to dynamically increment the queue array.
+
+# Day 207 (10/21/2022)
+
+## C Practice
+
+Practiced in C.
+
+## Thoughts
+
+Completed a very basic binary tree implementation in C.  Currently, the user has to manually insert the nodes.  Will change it to a binary search tree where it dynamically sets the nodes to the left or right depending on the value.  Then will have to look into balancing binary trees and auto balancing binary trees.
