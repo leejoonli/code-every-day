@@ -2082,3 +2082,13 @@ Practiced in C.
 ## Thoughts
 
 Added stack data structure and functions to the C practice repository.
+
+# Day 206 (10/20/2022)
+
+## C Practice
+
+Practiced in C.
+
+## Thoughts
+
+Completed queue data structure functions.  From the source that I was reading, it used the modulo operator to dynamically increment the queue array.
