@@ -2102,3 +2102,13 @@ Practiced in C.
 ## Thoughts
 
 Completed a very basic binary tree implementation in C.  Currently, the user has to manually insert the nodes.  Will change it to a binary search tree where it dynamically sets the nodes to the left or right depending on the value.  Then will have to look into balancing binary trees and auto balancing binary trees.
+
+# Day 208 (10/25/2022)
+
+## C Practice
+
+Practiced in C.
+
+## Thoughts
+
+Tried implementing an auto insert function for the binary tree exercise.  Having difficulty again with pointers.  The walker variable isn't setting the left or right pointers to the necessary pointer values.  Will have to look into further.
