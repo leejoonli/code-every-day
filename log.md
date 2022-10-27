@@ -2112,3 +2112,13 @@ Practiced in C.
 ## Thoughts
 
 Tried implementing an auto insert function for the binary tree exercise.  Having difficulty again with pointers.  The walker variable isn't setting the left or right pointers to the necessary pointer values.  Will have to look into further.
+
+# Day 209 (10/26/2022)
+
+## C Practice
+
+Practiced in C.
+
+## Thoughts
+
+Still not able to get the walker pointer variable to work properly.  The addresses are different which suggests that instead of traversing the root node struct variable, it's traversing the walker variable which left and right nodes point to different addresses than the root left and right nodes.
