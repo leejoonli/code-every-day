@@ -2132,3 +2132,13 @@ Practiced in C.
 ## Thoughts
 
 Found a recursive solution for the insert function that works.  Very clean and it doesn't require a loop.  Then added a search value function.  Had a little difficulty passing in pointers but eventually got it to work.  Although it returns a zero or one instead of true or false if the value exists in the tree but I don't see anything wrong with how it's currently set up.  Will add more functions.
+
+# Day 211 (10/28/2022)
+
+## C Practice
+
+Practiced in C.
+
+## Thoughts
+
+Added size of tree and get max value functions for binary tree directory.  Continued to use the recursion solution.  Currently at get height function but currently still working on how the logic will work in C.
