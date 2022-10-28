@@ -2122,3 +2122,13 @@ Practiced in C.
 ## Thoughts
 
 Still not able to get the walker pointer variable to work properly.  The addresses are different which suggests that instead of traversing the root node struct variable, it's traversing the walker variable which left and right nodes point to different addresses than the root left and right nodes.
+
+# Day 210 (10/27/2022)
+
+## C Practice
+
+Practiced in C.
+
+## Thoughts
+
+Found a recursive solution for the insert function that works.  Very clean and it doesn't require a loop.  Then added a search value function.  Had a little difficulty passing in pointers but eventually got it to work.  Although it returns a zero or one instead of true or false if the value exists in the tree but I don't see anything wrong with how it's currently set up.  Will add more functions.
