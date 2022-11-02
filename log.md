@@ -2152,3 +2152,13 @@ Practiced in C.
 ## Thoughts
 
 Completed the binary tree exercise.  Took longer than expected but added the check height function/s and the check balance function/s.  It's interesting to see the difference in programming languages (syntax and capabilities).
+
+# Day 213 (11/2/2022)
+
+## C Practice
+
+Practiced in C.
+
+## Thoughts
+
+Completed a very basic hash table exercise in C.  It was different than JavaScript or Python since you need to allocate memory and state how big the hash table is at the start.  It was a good exercise to keep practicing with pointers.
