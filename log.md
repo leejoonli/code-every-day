@@ -2142,3 +2142,13 @@ Practiced in C.
 ## Thoughts
 
 Added size of tree and get max value functions for binary tree directory.  Continued to use the recursion solution.  Currently at get height function but currently still working on how the logic will work in C.
+
+# Day 212 (11/1/2022)
+
+## C Practice
+
+Practiced in C.
+
+## Thoughts
+
+Completed the binary tree exercise.  Took longer than expected but added the check height function/s and the check balance function/s.  It's interesting to see the difference in programming languages (syntax and capabilities).
