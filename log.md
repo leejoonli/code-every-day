@@ -2172,3 +2172,13 @@ Practiced in C.
 ## Thoughts
 
 Started a graph exercise in C.  Using the Geeks for Geeks site for reference.  It's very different than in JavaScript or other more modern programming languages.  It might also be because of the adjacency matrix/adjacency list structures.  Will continue to work on this exercise.
+
+# Day 215 (11/4/2022)
+
+## C Practice
+
+Practiced in C.
+
+## Thoughts
+
+Finished graph exercise in C.  Adding edges to a graph in C is interesting to say the least.  More so if it's an undirected graph because you have to add an edge and then the reverse of that edge.
