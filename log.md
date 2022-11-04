@@ -2162,3 +2162,13 @@ Practiced in C.
 ## Thoughts
 
 Completed a very basic hash table exercise in C.  It was different than JavaScript or Python since you need to allocate memory and state how big the hash table is at the start.  It was a good exercise to keep practicing with pointers.
+
+# Day 214 (11/3/2022)
+
+## C Practice
+
+Practiced in C.
+
+## Thoughts
+
+Started a graph exercise in C.  Using the Geeks for Geeks site for reference.  It's very different than in JavaScript or other more modern programming languages.  It might also be because of the adjacency matrix/adjacency list structures.  Will continue to work on this exercise.
