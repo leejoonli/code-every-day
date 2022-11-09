@@ -2182,3 +2182,13 @@ Practiced in C.
 ## Thoughts
 
 Finished graph exercise in C.  Adding edges to a graph in C is interesting to say the least.  More so if it's an undirected graph because you have to add an edge and then the reverse of that edge.
+
+# Day 216 (11/8/2022)
+
+## C++ Practice
+
+Practiced in C++.
+
+## Thoughts
+
+Basically the same as C but with some differences.  The `cout << "hello world" << endl` format seems alien to me but that's mainly because it's my first time practicing with this syntax.  I think I prefer the regular `printf()` method at least for now.
