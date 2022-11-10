@@ -2192,3 +2192,13 @@ Practiced in C++.
 ## Thoughts
 
 Basically the same as C but with some differences.  The `cout << "hello world" << endl` format seems alien to me but that's mainly because it's my first time practicing with this syntax.  I think I prefer the regular `printf()` method at least for now.
+
+# Day 217 (11/9/2022)
+
+## C++ Practice
+
+Practiced in C++.
+
+## Thoughts
+
+Watched a video on the basics of C++.  Originally, used just `cout << foobar << endl;` but the video uses `std::cout` but that's because it's not importing the namespace.  There's also a tutorial to use VS Code but I'm currently using Codeblocks for now.  Will eventually move to VS Code.
