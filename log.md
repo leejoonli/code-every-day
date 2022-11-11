@@ -2202,3 +2202,13 @@ Practiced in C++.
 ## Thoughts
 
 Watched a video on the basics of C++.  Originally, used just `cout << foobar << endl;` but the video uses `std::cout` but that's because it's not importing the namespace.  There's also a tutorial to use VS Code but I'm currently using Codeblocks for now.  Will eventually move to VS Code.
+
+# Day 218 (11/10/2022)
+
+## C++ Practice
+
+Practiced in C++.
+
+## Thoughts
+
+Continuing the basics of C++.  Just tested some print statements, did a refresher on memory, and learned new initialization syntax.  There's `{}`, `()`, and assignment initialization.  The difference is implicit conversions where the `()` will implicitly convert anything in the brackets to the data type.  `{}` will result in an error or warning.
