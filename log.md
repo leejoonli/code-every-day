@@ -2212,3 +2212,13 @@ Practiced in C++.
 ## Thoughts
 
 Continuing the basics of C++.  Just tested some print statements, did a refresher on memory, and learned new initialization syntax.  There's `{}`, `()`, and assignment initialization.  The difference is implicit conversions where the `()` will implicitly convert anything in the brackets to the data type.  `{}` will result in an error or warning.
+
+# Day 219 (11/16/2022)
+
+## Portfolio
+
+Updated portfolio.
+
+## Thoughts
+
+Added another section for the calculator app created in C# and updated the languages and frameworks to include C# and Django.
