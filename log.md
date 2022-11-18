@@ -2222,3 +2222,13 @@ Updated portfolio.
 ## Thoughts
 
 Added another section for the calculator app created in C# and updated the languages and frameworks to include C# and Django.
+
+# Day 220 (11/17/2022)
+
+## C++
+
+Practiced in C++.
+
+## Thoughts
+
+Practiced integer types, integer modifiers, and fractional numbers.  Learned more about unsigned and signed variables and how much memory each takes up.  Fractional numbers need an external library for more accuracy or it seems like it'll only use 7 digits.  But the default usage is a double and doubles can use up to 15 digits.  Not sure why.
