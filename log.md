@@ -2232,3 +2232,13 @@ Practiced in C++.
 ## Thoughts
 
 Practiced integer types, integer modifiers, and fractional numbers.  Learned more about unsigned and signed variables and how much memory each takes up.  Fractional numbers need an external library for more accuracy or it seems like it'll only use 7 digits.  But the default usage is a double and doubles can use up to 15 digits.  Not sure why.
+
+# Day 221 (11/18/2022)
+
+## C++
+
+Practiced in C++.
+
+## Thoughts
+
+Reviewed booleans and chars in C++ and did some practice.  Learned about the `static_cast<int>()` function in the char exercise.
