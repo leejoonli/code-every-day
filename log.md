@@ -2242,3 +2242,13 @@ Practiced in C++.
 ## Thoughts
 
 Reviewed booleans and chars in C++ and did some practice.  Learned about the `static_cast<int>()` function in the char exercise.
+
+# Day 222 (11/22/2022)
+
+## C++
+
+Practiced in C++.
+
+## Thoughts
+
+Reviewed the `auto` keyword, basic operations, precedence and associativity, and prefix and postfix.  Auto is reminiscent of the `let` keyword in javascript since it auto detects what value is initialized.  But it has some drawbacks since the `auto` is set to the initial initialization value type.  Precendence didn't work like how I imagined: there's a table that lists everything and what each operator's associativity is.  The basic operations and prefix/postfix were just review.
