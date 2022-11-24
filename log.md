@@ -2252,3 +2252,13 @@ Practiced in C++.
 ## Thoughts
 
 Reviewed the `auto` keyword, basic operations, precedence and associativity, and prefix and postfix.  Auto is reminiscent of the `let` keyword in javascript since it auto detects what value is initialized.  But it has some drawbacks since the `auto` is set to the initial initialization value type.  Precendence didn't work like how I imagined: there's a table that lists everything and what each operator's associativity is.  The basic operations and prefix/postfix were just review.
+
+# Day 223 (11/23/2022)
+
+## C++
+
+Practiced in C++.
+
+## Thoughts
+
+Reviewed compound operators, relational operators, and logical operators, and learned about output formatting in C++.  The coumpound, relational, and logical operators were just basic review that I already knew how to do.  The output formatting was interesting because it formats what is outputted to the terminal when using `cout`.  There's a lot that was went over like setw, setprecision, showpos/noshowpos, scientific/fixed, boolalpha, and flush.  Still not exactly sure what flush does but since it was went over, I assume it's important.
