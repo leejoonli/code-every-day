@@ -2262,3 +2262,13 @@ Practiced in C++.
 ## Thoughts
 
 Reviewed compound operators, relational operators, and logical operators, and learned about output formatting in C++.  The coumpound, relational, and logical operators were just basic review that I already knew how to do.  The output formatting was interesting because it formats what is outputted to the terminal when using `cout`.  There's a lot that was went over like setw, setprecision, showpos/noshowpos, scientific/fixed, boolalpha, and flush.  Still not exactly sure what flush does but since it was went over, I assume it's important.
+
+# Day 224 (11/29/2022)
+
+## C++
+
+Practiced in C++.
+
+## Thoughts
+
+Went over numeric limits, math functions, weird integral types, flow control, and loops.  Math functions, flow control, and loops were just basic review.  Some syntax can be different but will just continue using the normal syntax.  Numeric limits were just to show the limits to data types and the weird integral types is basically a warning that certain data types will be converted if used incorrectly like in `auto i = int + int;`.  Even if `i` is supposed to be a char it will convert to an int.  This happens because unsigned int and char are less than 4 bytes.
