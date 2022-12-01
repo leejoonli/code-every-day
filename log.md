@@ -2272,3 +2272,13 @@ Practiced in C++.
 ## Thoughts
 
 Went over numeric limits, math functions, weird integral types, flow control, and loops.  Math functions, flow control, and loops were just basic review.  Some syntax can be different but will just continue using the normal syntax.  Numeric limits were just to show the limits to data types and the weird integral types is basically a warning that certain data types will be converted if used incorrectly like in `auto i = int + int;`.  Even if `i` is supposed to be a char it will convert to an int.  This happens because unsigned int and char are less than 4 bytes.
+
+# Day 225 (11/30/2022)
+
+## C++
+
+Practiced in C++.
+
+## Thoughts
+
+Went over arrays.  Pretty much review of what I already know.  Didn't know you can just print out char arrays to the terminal in C++ though.  And if the compiler produces an error when using `size()` then you need to use an alternative method.
