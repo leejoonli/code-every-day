@@ -2282,3 +2282,13 @@ Practiced in C++.
 ## Thoughts
 
 Went over arrays.  Pretty much review of what I already know.  Didn't know you can just print out char arrays to the terminal in C++ though.  And if the compiler produces an error when using `size()` then you need to use an alternative method.
+
+# Day 226 (12/1/2022)
+
+## C++
+
+Practiced in C++.
+
+## Thoughts
+
+Did some basic review on pointers.  Seems like it's the same in C++ as it is in C so far.
