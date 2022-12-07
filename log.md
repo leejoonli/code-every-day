@@ -2292,3 +2292,13 @@ Practiced in C++.
 ## Thoughts
 
 Did some basic review on pointers.  Seems like it's the same in C++ as it is in C so far.
+
+# Day 227 (12/6/2022)
+
+## C++
+
+Practiced in C++.
+
+## Thoughts
+
+Learned about using `new` and `delete` and some best practices when using pointers in C++.  `new` seems like the C++ way of using `malloc()` since it uses memory from the heap and `delete` is basically the same thing as using `free()`.  The initialization of using memory on the heap is less syntactic in C++.  As for the best practices when using pointers, that was interesting since one best practice is to initialize the pointer back to `nullptr` after using `delete` and for multiple pointers pointing to the same address you use the slave pointers instead of the master pointer.
