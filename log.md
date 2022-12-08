@@ -2302,3 +2302,13 @@ Practiced in C++.
 ## Thoughts
 
 Learned about using `new` and `delete` and some best practices when using pointers in C++.  `new` seems like the C++ way of using `malloc()` since it uses memory from the heap and `delete` is basically the same thing as using `free()`.  The initialization of using memory on the heap is less syntactic in C++.  As for the best practices when using pointers, that was interesting since one best practice is to initialize the pointer back to `nullptr` after using `delete` and for multiple pointers pointing to the same address you use the slave pointers instead of the master pointer.
+
+# Day 228 (12/7/2022)
+
+## C++
+
+Practiced in C++.
+
+## Thoughts
+
+Learned about excpetions and `std::nothrow`, null pointer safety, and avoiding memory leaks when using pointers.  Introduced the `try {} catch {}` block and using `exception& ex`.  I can then use `ex.what()` (built in method I assume) to show the exception.  Another way to checl null pointers would be using `nothrow` like `int *temp = new(nothrow) int[1000000000];`.  This will ensure that the program runs until it can't allocate data anymore and then it will enter the null pointer check code block.  Null pointer safety was in essence review.  Avoiding memory leaks when using pointers was kind of review as well.  The video gave examples of memory leaks like initializing a pointer variable to another allocated memory slot after it as alread been initialized.
