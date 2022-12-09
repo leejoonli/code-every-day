@@ -2312,3 +2312,13 @@ Practiced in C++.
 ## Thoughts
 
 Learned about excpetions and `std::nothrow`, null pointer safety, and avoiding memory leaks when using pointers.  Introduced the `try {} catch {}` block and using `exception& ex`.  I can then use `ex.what()` (built in method I assume) to show the exception.  Another way to checl null pointers would be using `nothrow` like `int *temp = new(nothrow) int[1000000000];`.  This will ensure that the program runs until it can't allocate data anymore and then it will enter the null pointer check code block.  Null pointer safety was in essence review.  Avoiding memory leaks when using pointers was kind of review as well.  The video gave examples of memory leaks like initializing a pointer variable to another allocated memory slot after it as alread been initialized.
+
+# Day 229 (12/8/2022)
+
+## C++
+
+Practiced in C++.
+
+## Thoughts
+
+Practiced using dynamically allocated arrays using `new` and references and how they differ from pointers.  Allocating memory for arrays is pretty simple but deleting just requires a different syntax `delete[] var_name`.  References are interesting because they are basically constant pointers that have a lot more quality of life than pointers.
