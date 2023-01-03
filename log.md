@@ -2322,3 +2322,13 @@ Practiced in C++.
 ## Thoughts
 
 Practiced using dynamically allocated arrays using `new` and references and how they differ from pointers.  Allocating memory for arrays is pretty simple but deleting just requires a different syntax `delete[] var_name`.  References are interesting because they are basically constant pointers that have a lot more quality of life than pointers.
+
+# Day 230 (1/2/2023)
+
+## React
+
+Practiced React.
+
+## Thoughts
+
+Doing a refresher on React.  Was able to remember a lot but forgot how to update the page depending on state.  Using useEffect with the state in the `[]` but currently not updating on change.  Will continue practicing and then ultimately change the application to a tax calculating app.
