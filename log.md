@@ -2332,3 +2332,13 @@ Practiced React.
 ## Thoughts
 
 Doing a refresher on React.  Was able to remember a lot but forgot how to update the page depending on state.  Using useEffect with the state in the `[]` but currently not updating on change.  Will continue practicing and then ultimately change the application to a tax calculating app.
+
+# Day 231 (1/3/2023)
+
+## React
+
+Practiced React.
+
+## Thoughts
+
+After the refresher exercise I changed the code to be a very basic California state income tax calculator.  Will continue to practice and practice react router.
