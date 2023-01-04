@@ -2342,3 +2342,13 @@ Practiced React.
 ## Thoughts
 
 After the refresher exercise I changed the code to be a very basic California state income tax calculator.  Will continue to practice and practice react router.
+
+# Day 232 (1/4/2023)
+
+## React
+
+Practiced React.
+
+## Thoughts
+
+Practed using React router v6.4 and it has some small cool differences to the verion that I learned during General Assembly.  Haven't practiced using the loader function yet and haven't gone through all of the documentation yet but will continue to do so.
