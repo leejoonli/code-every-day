@@ -2351,4 +2351,14 @@ Practiced React.
 
 ## Thoughts
 
-Practed using React router v6.4 and it has some small cool differences to the verion that I learned during General Assembly.  Haven't practiced using the loader function yet and haven't gone through all of the documentation yet but will continue to do so.
+Practiced using React router v6.4 and it has some small cool differences to the verion that I learned during General Assembly.  Haven't practiced using the loader function yet and haven't gone through all of the documentation yet but will continue to do so.
+
+# Day 233 (1/5/2023)
+
+## React
+
+Practiced MongoDB.
+
+## Thoughts
+
+Practiced MongoDB.  Set up a basic controller and model to follow the tax application.  A SQL database seems like a better choice for this kind of application since the structure is pretty much the same and won't deviate much later.  Had trouble with Postman but it was because I didn't check the headers.
