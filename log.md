@@ -2355,10 +2355,20 @@ Practiced using React router v6.4 and it has some small cool differences to the 
 
 # Day 233 (1/5/2023)
 
-## React
+## MongoDB
 
 Practiced MongoDB.
 
 ## Thoughts
 
 Practiced MongoDB.  Set up a basic controller and model to follow the tax application.  A SQL database seems like a better choice for this kind of application since the structure is pretty much the same and won't deviate much later.  Had trouble with Postman but it was because I didn't check the headers.
+
+# Day 234 (1/9/2023)
+
+## Django and MongoDB
+
+Practiced MongoDB and PostgreSQL.
+
+## Thoughts
+
+Added a PUT and PATCH route and was able to connect the MongoDB database to the React frontend.  Able to get a Django, PostgreSQL server up but couldn't get the secret key environmental variable to work.
