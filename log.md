@@ -2372,3 +2372,13 @@ Practiced MongoDB and PostgreSQL.
 ## Thoughts
 
 Added a PUT and PATCH route and was able to connect the MongoDB database to the React frontend.  Able to get a Django, PostgreSQL server up but couldn't get the secret key environmental variable to work.
+
+# Day 235 (1/10/2023-1/11/2023)
+
+## FELP
+
+Updated FELP codebase.
+
+## Thoughts
+
+Reworked the FELP codebase with more components and moved the modals to its own component.  Tried to deploy the backend to netlify but couldn't get it to work.
