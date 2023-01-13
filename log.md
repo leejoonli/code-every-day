@@ -2382,3 +2382,13 @@ Updated FELP codebase.
 ## Thoughts
 
 Reworked the FELP codebase with more components and moved the modals to its own component.  Tried to deploy the backend to netlify but couldn't get it to work.
+
+# Day 236 (1/12/2023)
+
+## Research
+
+Researched tax application.
+
+## Thoughts
+
+Preperation work and research for the tax application isn't going very well so far.  Don't understand how taxes work but will continue to figure things out.  Planning on building a program instead of a web based application.
