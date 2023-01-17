@@ -2392,3 +2392,13 @@ Researched tax application.
 ## Thoughts
 
 Preperation work and research for the tax application isn't going very well so far.  Don't understand how taxes work but will continue to figure things out.  Planning on building a program instead of a web based application.
+
+# Day 237 (1/16/2023)
+
+## Research
+
+Researched what programming language and builder to use.
+
+## Thoughts
+
+Having trouble figuring out what technologies to use.  A lot of the C++ desktop app builders aren't free to use.  Found one called IMGUI but having trouble launching it because it's reading variables as undeclared.  Will have to continue to research on how to fix this issue.
