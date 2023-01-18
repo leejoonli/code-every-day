@@ -2402,3 +2402,13 @@ Researched what programming language and builder to use.
 ## Thoughts
 
 Having trouble figuring out what technologies to use.  A lot of the C++ desktop app builders aren't free to use.  Found one called IMGUI but having trouble launching it because it's reading variables as undeclared.  Will have to continue to research on how to fix this issue.
+
+# Day 238 (1/17/2023)
+
+## IMGUI
+
+Practiced IMGUI.
+
+## Thoughts
+
+Able to build debug and release versions of imgui examples.  Tested some IMGUI stuff as well.  Will need to continue learning about IMGUI and ui stuff but it seems like the logic won't be as difficult as I think.
