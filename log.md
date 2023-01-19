@@ -2412,3 +2412,13 @@ Practiced IMGUI.
 ## Thoughts
 
 Able to build debug and release versions of imgui examples.  Tested some IMGUI stuff as well.  Will need to continue learning about IMGUI and ui stuff but it seems like the logic won't be as difficult as I think.
+
+# Day 239 (1/18/2023)
+
+## Tax Estimator
+
+Worked on the tax estimator application.
+
+## Thoughts
+
+Continued through ImGui and was able to get a list in a window but running into a bug where I can't but more than one window list at a time.  Confirmed that I'm able to manipulate variables and data when inputing data.  Need to keep testing and debugging.
