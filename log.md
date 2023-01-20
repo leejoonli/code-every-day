@@ -2422,3 +2422,13 @@ Worked on the tax estimator application.
 ## Thoughts
 
 Continued through ImGui and was able to get a list in a window but running into a bug where I can't but more than one window list at a time.  Confirmed that I'm able to manipulate variables and data when inputing data.  Need to keep testing and debugging.
+
+# Day 240 (1/19/2023)
+
+## Tax Estimator
+
+Worked on the tax estimator application.
+
+## Thoughts
+
+Able to fix the combo issue in ImGui.  Able to have multiple combos without having a data mixup issue.  Had trouble getting a result from basic operators but it may be an issue using the double data type.  Switched to int and it works as intended.  Not as accurate but since this is an estimator I'm not stressing about it.
