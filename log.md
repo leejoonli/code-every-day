@@ -2442,3 +2442,13 @@ Worked on the tax estimator application.
 ## Thoughts
 
 Achieved MVP today.  Not pretty at all but functional.  Able to fix a lot of the problems from last week.  There are still some bugs and I need to update the README.md but I'm satisfied with the result for now.
+
+# Day 242 (1/24/2023)
+
+## Tax Estimator and Pizza Application Research
+
+Updated some stuff on the tax application and tried to do some research for the pizza application.
+
+## Thoughts
+
+Updated the README.md on the tax application to match what I had on my other application repositories.  Probably still has some bugs but it'll do for now.  Started researching for the pizza application but it's going very slowly.
