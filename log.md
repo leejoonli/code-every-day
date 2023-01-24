@@ -2432,3 +2432,13 @@ Worked on the tax estimator application.
 ## Thoughts
 
 Able to fix the combo issue in ImGui.  Able to have multiple combos without having a data mixup issue.  Had trouble getting a result from basic operators but it may be an issue using the double data type.  Switched to int and it works as intended.  Not as accurate but since this is an estimator I'm not stressing about it.
+
+# Day 241 (1/23/2023)
+
+## Tax Estimator
+
+Worked on the tax estimator application.
+
+## Thoughts
+
+Achieved MVP today.  Not pretty at all but functional.  Able to fix a lot of the problems from last week.  There are still some bugs and I need to update the README.md but I'm satisfied with the result for now.
