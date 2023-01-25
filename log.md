@@ -2452,3 +2452,13 @@ Updated some stuff on the tax application and tried to do some research for the 
 ## Thoughts
 
 Updated the README.md on the tax application to match what I had on my other application repositories.  Probably still has some bugs but it'll do for now.  Started researching for the pizza application but it's going very slowly.
+
+# Day 243 (1/25/2023)
+
+## Tax Estimator and Pizza Application Research
+
+Updated some stuff on the tax application and did some research for the pizza application.
+
+## Thoughts
+
+Fixed a bug with the calculation function in the tax estimator application.  Currently, one known bug is that the income source option does not affect the estimate result in any way.  Not really sure how that is supposed to affect the result so I'm just going to leave it as it is now.  May have found something regarding the pizza application and how to monitor certain programs running on a computer.
