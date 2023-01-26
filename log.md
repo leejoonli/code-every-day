@@ -2462,3 +2462,13 @@ Updated some stuff on the tax application and did some research for the pizza ap
 ## Thoughts
 
 Fixed a bug with the calculation function in the tax estimator application.  Currently, one known bug is that the income source option does not affect the estimate result in any way.  Not really sure how that is supposed to affect the result so I'm just going to leave it as it is now.  May have found something regarding the pizza application and how to monitor certain programs running on a computer.
+
+# Day 244 (1/26/2023)
+
+## Tax Estimator and Pizza Application Research
+
+Updated some stuff on the tax application and did some research for the pizza application.
+
+## Thoughts
+
+Fixed another bug with the calculation function that didn't change the tax percentage even if you entered a different income amount.  Found a GitHub repository that automatically orders pizza for you but you need to shell script in python and create an object and then order.  Now I need to find a way to identify if Maya starts a render and trigger a program to run when that happens.
