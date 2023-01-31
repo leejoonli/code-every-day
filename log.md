@@ -2472,3 +2472,13 @@ Updated some stuff on the tax application and did some research for the pizza ap
 ## Thoughts
 
 Fixed another bug with the calculation function that didn't change the tax percentage even if you entered a different income amount.  Found a GitHub repository that automatically orders pizza for you but you need to shell script in python and create an object and then order.  Now I need to find a way to identify if Maya starts a render and trigger a program to run when that happens.
+
+# Day 245 (1/30/2023)
+
+## Maya and CMake
+
+Started testing for the pizza application.
+
+## Thoughts
+
+Getting a lot of errors.  The documentation and walkthrough video are different and from a few years ago so still figuring out how to proceed.  Had to ask a Maya expert more details about the software.
