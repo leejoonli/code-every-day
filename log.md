@@ -2482,3 +2482,13 @@ Started testing for the pizza application.
 ## Thoughts
 
 Getting a lot of errors.  The documentation and walkthrough video are different and from a few years ago so still figuring out how to proceed.  Had to ask a Maya expert more details about the software.
+
+# Day 246 (1/31/2023)
+
+## Maya and CMake
+
+Tested for the pizza application.
+
+## Thoughts
+
+Had to ditch the walkthroughs and sample codes and go straight into the documentation.  Was finally able to get a message in the script editor in Maya.  Need to start converting the pizza api code into C++.
