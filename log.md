@@ -2492,3 +2492,13 @@ Tested for the pizza application.
 ## Thoughts
 
 Had to ditch the walkthroughs and sample codes and go straight into the documentation.  Was finally able to get a message in the script editor in Maya.  Need to start converting the pizza api code into C++.
+
+# Day 247 (2/1/2023)
+
+## Pizza Application
+
+Worked on the pizza application.
+
+## Thoughts
+
+Had trouble creating the first class.  Initializing char arrays in a class wasn't working and I didn't find the solution until I just used the string data type.  Will need to keep referencing the pizza api repository and porting the code into C++.
