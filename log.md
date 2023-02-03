@@ -2502,3 +2502,13 @@ Worked on the pizza application.
 ## Thoughts
 
 Had trouble creating the first class.  Initializing char arrays in a class wasn't working and I didn't find the solution until I just used the string data type.  Will need to keep referencing the pizza api repository and porting the code into C++.
+
+# Day 248 (2/2/2023)
+
+## Pizza Application
+
+Worked on the pizza application.
+
+## Thoughts
+
+Had to scrap the auto ordering feature and just go with a rudimentary solution of opening a new tab in the default browser to the pizza url.
