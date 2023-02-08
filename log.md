@@ -2512,3 +2512,13 @@ Worked on the pizza application.
 ## Thoughts
 
 Had to scrap the auto ordering feature and just go with a rudimentary solution of opening a new tab in the default browser to the pizza url.
+
+# Day 249 (2/7/2023)
+
+## Database Application
+
+Worked on the database application.
+
+## Thoughts
+
+Decided to try and create a database using django, python, and postgresql on windows rather than WSL.  Running into issues where I need to install certain programs like GNU and PostgreSQL for windows.  psql not showing up as a command option in powershell or command prompt.
