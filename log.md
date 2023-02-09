@@ -2522,3 +2522,13 @@ Worked on the database application.
 ## Thoughts
 
 Decided to try and create a database using django, python, and postgresql on windows rather than WSL.  Running into issues where I need to install certain programs like GNU and PostgreSQL for windows.  psql not showing up as a command option in powershell or command prompt.
+
+# Day 250 (2/8/2023)
+
+## Database Application
+
+Worked on the database application.
+
+## Thoughts
+
+Did a refresher on Django and using windows instead of WSL.
