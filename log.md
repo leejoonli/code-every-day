@@ -2532,3 +2532,13 @@ Worked on the database application.
 ## Thoughts
 
 Did a refresher on Django and using windows instead of WSL.
+
+# Day 251 (2/9/2023)
+
+## Database Application
+
+Worked on the database application.
+
+## Thoughts
+
+Pretty much completed the Django hospital database.
