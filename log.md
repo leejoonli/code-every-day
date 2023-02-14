@@ -2542,3 +2542,13 @@ Worked on the database application.
 ## Thoughts
 
 Pretty much completed the Django hospital database.
+
+# Day 252 (2/13/2023)
+
+## Update Portfolio and Resume
+
+Updated personal information/work.
+
+## Thoughts
+
+Had a permissions issue that I had to work around by making a completely new repository.
