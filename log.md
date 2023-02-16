@@ -2552,3 +2552,13 @@ Updated personal information/work.
 ## Thoughts
 
 Had a permissions issue that I had to work around by making a completely new repository.
+
+# Day 253 (2/15/2023)
+
+## Pizza Application
+
+Worked a bit on the pizza application.
+
+## Thoughts
+
+Needed to do more research on how the pizza api works, specifically the JSON that you send to the api to order the pizza.  Worked on another header file and modified the others.  Need to find a way to convert C++ class into JSON.
