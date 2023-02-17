@@ -2562,3 +2562,13 @@ Worked a bit on the pizza application.
 ## Thoughts
 
 Needed to do more research on how the pizza api works, specifically the JSON that you send to the api to order the pizza.  Worked on another header file and modified the others.  Need to find a way to convert C++ class into JSON.
+
+# Day 254 (2/16/2023)
+
+## Pizza Application
+
+Researched how to do an api call in C++.
+
+## Thoughts
+
+Need to look more into how to make API calls in C++ and send a json object.
