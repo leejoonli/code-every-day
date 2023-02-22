@@ -2572,3 +2572,13 @@ Researched how to do an api call in C++.
 ## Thoughts
 
 Need to look more into how to make API calls in C++ and send a json object.
+
+# Day 255 (2/21/2023)
+
+## C++ and API Research
+
+Researched about libcurl.
+
+## Thoughts
+
+Read about libcurl and seeing how to make HTTP requests, specifically POST requests, with C++.  If libcurl works for POST requests, then hypothetically it is possible to implement that into the pizza application and can order pizza automatically.
