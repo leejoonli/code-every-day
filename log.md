@@ -2592,3 +2592,13 @@ Refresher on Docker.
 ## Thoughts
 
 Reread documentation on Docker as a refresher.  Practiced basic Docker commands again.  Needed a change from the pizza application for now.
+
+# Day 257 (2/28/2023)
+
+## Hospital Database
+
+Updated the hospital database.
+
+## Thoughts
+
+Updated the requirements.txt and added a Dockerfile.  The image and container builds but it doesn't run.  Not sure what's wrong and will need to continue debugging.
