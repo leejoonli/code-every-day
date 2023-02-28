@@ -2582,3 +2582,13 @@ Researched about libcurl.
 ## Thoughts
 
 Read about libcurl and seeing how to make HTTP requests, specifically POST requests, with C++.  If libcurl works for POST requests, then hypothetically it is possible to implement that into the pizza application and can order pizza automatically.
+
+# Day 256 (2/27/2023)
+
+## Docker
+
+Refresher on Docker.
+
+## Thoughts
+
+Reread documentation on Docker as a refresher.  Practiced basic Docker commands again.  Needed a change from the pizza application for now.
