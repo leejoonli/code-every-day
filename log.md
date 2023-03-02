@@ -2602,3 +2602,13 @@ Updated the hospital database.
 ## Thoughts
 
 Updated the requirements.txt and added a Dockerfile.  The image and container builds but it doesn't run.  Not sure what's wrong and will need to continue debugging.
+
+# Day 258 (3/1/2023)
+
+## Docker
+
+Testing Docker PostgreSQL image.
+
+## Thoughts
+
+Ran the Docker image for PostgreSQL but it seems like it needs to be used in tandem with another image to access and use the database.  But my hospital django application has a built in UI that can be accessed if the server is running.  However, when the container is ran, it either cannot run the container if the local postgres server isn't online or the local host address does not display the django app.  I'm confused as to why the container can't run because the local postgres server isn't running because I thought the idea of dockerizing applications is because you don't need to install things like a postgres server.  Need to keep debugging.
