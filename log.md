@@ -2612,3 +2612,13 @@ Testing Docker PostgreSQL image.
 ## Thoughts
 
 Ran the Docker image for PostgreSQL but it seems like it needs to be used in tandem with another image to access and use the database.  But my hospital django application has a built in UI that can be accessed if the server is running.  However, when the container is ran, it either cannot run the container if the local postgres server isn't online or the local host address does not display the django app.  I'm confused as to why the container can't run because the local postgres server isn't running because I thought the idea of dockerizing applications is because you don't need to install things like a postgres server.  Need to keep debugging.
+
+# Day 258 (3/1/2023)
+
+## Mock Interview
+
+Practiced interview questions.
+
+## Thoughts
+
+Noticed a trend that I fail frequently on the interview portion of the tech interviews.  Need more practice to not fumble words and formulate good, coherent answers to broad questions.
